@@ -1,0 +1,998 @@
+reviewer_name,star_rating,comment,create_time,update_time,review_id,has_reply,reply_comment,reply_time,source_file,star_rating_numeric,create_date,create_year,create_month,sentiment_label
+sudhakar g,THREE,,2019-01-01T03:04:26.695148Z,2019-01-01T03:04:26.695148Z,ChZDSUhNMG9nS0VJQ0FnSURJMnRHSUh3EAE,True,"Sir, we will be ever thankful to you, if you can suggest improvement areas to get more better rating from your side.  Our staff and management keeps constant efforts to enhance & excel the services we offer to customers & guests. Thanks in advance for your time to help us.",2019-02-22T06:12:06.614769Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,3,2019-01-01,2019,1,neutral
+Pragna Kameswari,FIVE,Nice catering provided by them and u will not regret about the hall too.. They take personal care about the food and ambience. Hall is comfortable for 150 to 200 people. Great staff who take care of everything immediately.,2019-01-22T06:33:26.360001Z,2019-01-22T06:36:27.248269Z,ChdDSUhNMG9nS0VJQ0FnSURJcTlQUnJ3RRAB,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,5,2019-01-22,2019,1,positive
+Venkata Ram Akella,FIVE,"Nice place for small functions up to 200 people, however management needs to plan chairs properly as in our function chair became a barrier to reach food.",2019-01-22T14:27:20.815806Z,2019-01-22T14:28:35.584644Z,ChZDSUhNMG9nS0VJQ0FnSURJNjkzbEtREAE,True,Thank you for taking the time to share your experience with us. We appreciate your feedback on the seating arrangement and will take it into consideration to improve our services. We are delighted that you found our hall nice and suitable for small functions. We hope to have the pleasure of serving you again in the future.,2023-02-20T21:24:58.171878Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,5,2019-01-22,2019,1,positive
+Bharath Kumar,FOUR,"Super hall.. There were two rooms in the hall good and spacious.. And the dinning hall is also very nice..
+but only one disadvantage that its only for 250 people..!!",2019-02-21T16:13:28.258297Z,2019-02-21T16:13:28.258297Z,ChdDSUhNMG9nS0VJQ0FnSUNvMWRXaDFBRRAB,True,Thank you for your kind words and feedback. We are happy to hear that you found our hall and dining space spacious and comfortable. We are sorry that our hall's capacity of 250 people did not meet your needs. We do have multiple halls in our building with varying capacities that might suit your requirements for larger events. We hope to have the opportunity to serve you again in the future.,2023-02-20T21:27:37.338748Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,4,2019-02-21,2019,2,positive
+rakesh guptha,FIVE,,2019-02-24T11:08:03.994883Z,2019-02-24T11:08:03.994883Z,ChZDSUhNMG9nS0VJQ0FnSUNvM2JIaUtREAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,5,2019-02-24,2019,2,positive
+Sampath Reddy Kandimalla,THREE,,2019-02-27T11:24:10.737558Z,2019-02-27T11:24:10.737558Z,ChdDSUhNMG9nS0VJQ0FnSUNvMF9XTWlBRRAB,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,3,2019-02-27,2019,2,neutral
+evani ravi keshav,THREE,Too clumsy,2019-02-28T06:33:23.316009Z,2019-02-28T06:33:23.316009Z,ChdDSUhNMG9nS0VJQ0FnSUNvOC1XLWh3RRAB,True,"Hello Sir, I’m sorry to hear about your bad experience. We’re normally known for best hygiene to detail, and we regret that we missed the mark from you.”
+“I am the owner of this business  and If you’d like to discuss this further, please write to svfunctionhalls@gmail.com  or call our office.",2021-12-28T10:19:05.176231Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,3,2019-02-28,2019,2,neutral
+Srinivas,FOUR,,2019-03-01T07:42:24.323434Z,2019-03-01T07:42:24.323434Z,ChZDSUhNMG9nS0VJQ0FnSUNvNjZiSWVnEAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,4,2019-03-01,2019,3,positive
+Rishendra kyama,FOUR,,2019-03-09T11:36:16.549033Z,2019-03-09T11:36:16.549033Z,ChdDSUhNMG9nS0VJQ0FnSURvc0lYdi1RRRAB,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,4,2019-03-09,2019,3,positive
+Sai kumar,THREE,Nice good job,2019-03-21T08:33:24.625870Z,2019-03-21T08:33:24.625870Z,ChZDSUhNMG9nS0VJQ0FnSURvcy1xaUpBEAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,3,2019-03-21,2019,3,neutral
+naveen bharadwaz,FIVE,Decent,2019-03-30T03:10:38.658184Z,2019-03-30T03:10:38.658184Z,ChZDSUhNMG9nS0VJQ0FnSUNZMFB5bUpnEAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,5,2019-03-30,2019,3,positive
+Anjan Kumar Reddy,FIVE,,2019-03-31T04:07:48.289195Z,2019-03-31T04:07:48.289195Z,ChZDSUhNMG9nS0VJQ0FnSUNZaU92cFJ3EAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,5,2019-03-31,2019,3,positive
+Supraja Ravi,FIVE,,2019-04-08T07:22:55.941685Z,2019-04-08T07:22:55.941685Z,ChZDSUhNMG9nS0VJQ0FnSUNZb3B5a1VREAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,5,2019-04-08,2019,4,positive
+Venu Gopal Reddy B,THREE,Good,2019-04-21T09:37:06.714313Z,2019-04-21T09:37:06.714313Z,ChZDSUhNMG9nS0VJQ0FnSUNZMi1Ha1dREAE,True,"Thank You for your rating. We appreciate your time and review. Further more, We hope to have the opportunity to welcome you back soon and a 5  star rating.",2019-04-23T06:40:24.898893Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,3,2019-04-21,2019,4,neutral
+anu anusha,FIVE,Good place for small functions,2019-05-09T14:51:26.180330Z,2019-05-09T14:51:26.180330Z,ChdDSUhNMG9nS0VJQ0FnSURZLXUtY3FRRRAB,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,5,2019-05-09,2019,5,positive
+santosh bhide,FOUR,Nice veg food,2019-05-17T06:49:36.401826Z,2019-05-17T06:49:36.401826Z,ChZDSUhNMG9nS0VJQ0FnSURZdGZxWVpnEAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,4,2019-05-17,2019,5,positive
+SAM,FOUR,"Very luxurious banquet Hall. Really had a blast here. Suitable for marriages, birthdays etc. It adds a really rich look to the party with ac halls and spacious dining space.",2019-05-18T10:17:42.600329Z,2019-05-18T10:17:42.600329Z,ChdDSUhNMG9nS0VJQ0FnSURZcmRhMThBRRAB,True,"Thank you for your kind review! We're so glad you had a great time at our banquet hall and found it suitable for your event. We strive to provide a luxurious and spacious environment for all our guests, and we're happy to hear that we were able to meet your expectations. We appreciate your feedback and hope to see you again soon for your next special occasion!",2023-02-20T21:25:41.293867Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,4,2019-05-18,2019,5,positive
+Venu Gopal,TWO,Not bade,2019-05-20T04:51:16.514734Z,2019-05-20T04:51:16.514734Z,ChdDSUhNMG9nS0VJQ0FnSURZZzRtcnR3RRAB,True,Thank you for choosing our establishment and taking the time to leave a rating. We hope to continue to improve and provide the best experience possible for our customers.,2023-02-20T21:12:29.821070Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,2,2019-05-20,2019,5,negative
+ROHIT REDDY,ONE,"No vallet parking, staff is waste, Ac doesn't work  properly, not more than 150 members capacity .",2019-05-20T16:23:52.532324Z,2019-05-20T16:23:52.532324Z,ChZDSUhNMG9nS0VJQ0FnSURZbzlTU2F3EAE,True,"I sincerely apologize for the inconvenience. Our A/C Machines are new and still under warranty. We will get them inspected for any gaps.
+
+Regarding Parking, we thank you for the honest feedback. There were some gaps around it, and we will fix it immediately. If you have a few more minutes, kindly, fill our survey https://www.surveymonkey.com/r/GCH8PGC.
+
+Kindly give us another opportunity to serve you to the mark.",2019-11-11T06:51:10.545066Z,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,1,2019-05-20,2019,5,negative
+Chaitanya Bangaru,FOUR,,2019-05-21T06:58:45.351963Z,2019-05-21T06:58:45.351963Z,ChZDSUhNMG9nS0VJQ0FnSURZNC0zOVlREAE,False,,,reviews-ABHRLXW1vdtd5g8_OcrioTtW4oVrH_sh9lRPiu.json,4,2019-05-21,2019,5,positive
+Ravi Nekkalapudi,FIVE,,2019-05-22T03:30:47.242038Z,2019-05-22T03:30:47.242038Z,ChdDSUhNMG9nS0VJQ0FnSURZczdhUjJRRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-22,2019,5,positive
+venu malineni,FIVE,,2019-05-22T03:32:50.210341Z,2019-05-22T03:32:50.210341Z,ChdDSUhNMG9nS0VJQ0FnSURZc19hOW5BRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-22,2019,5,positive
+saritha returi,FIVE,,2019-05-22T03:35:29.827938Z,2019-05-22T03:35:29.827938Z,ChZDSUhNMG9nS0VJQ0FnSURZczg2QUFREAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-22,2019,5,positive
+Surya Patra,FIVE,,2019-05-22T03:45:47.980551Z,2019-05-22T03:45:47.980551Z,ChZDSUhNMG9nS0VJQ0FnSURZczc3b0V3EAE,True,"Sir, thank you for giving 5 star rating for S V Banquet Halls.",2019-06-07T16:19:35.952861Z,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-22,2019,5,positive
+Mannem sridhar Reddy,FIVE,,2019-05-22T03:47:17.015657Z,2019-05-22T03:47:17.015657Z,ChZDSUhNMG9nS0VJQ0FnSURZczc2eE9nEAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-22,2019,5,positive
+ranjit reddy marepally,FIVE,,2019-05-22T04:35:32.307225Z,2020-11-26T08:28:36.335288Z,ChdDSUhNMG9nS0VJQ0FnSURZczdXaWp3RRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2019-05-22,2019,5,positive
+manu g,FOUR,Gud ambience,2019-05-23T15:42:59.404166Z,2019-05-23T15:42:59.404166Z,ChZDSUhNMG9nS0VJQ0FnSURZNjZtcFNnEAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,4,2019-05-23,2019,5,positive
+Nagesh Samala,FIVE,,2019-05-26T08:13:38.015098Z,2019-05-26T08:13:38.015098Z,ChZDSUhNMG9nS0VJQ0FnSURZbDQzTGRnEAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-26,2019,5,positive
+Madhu Goud,FIVE,,2019-05-27T10:31:57.286192Z,2019-05-27T10:31:57.286192Z,ChZDSUhNMG9nS0VJQ0FnSURZajVXbWVBEAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-27,2019,5,positive
+pruthviraju Namani,FIVE,,2019-05-29T05:47:43.362204Z,2019-05-29T05:47:43.362204Z,ChdDSUhNMG9nS0VJQ0FnSURZdjdLdHBBRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-05-29,2019,5,positive
+Naresh Surya,FOUR,,2019-05-31T05:34:56.356297Z,2019-05-31T05:34:56.356297Z,ChdDSUhNMG9nS0VJQ0FnSUM0aU95VnBBRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,4,2019-05-31,2019,5,positive
+PRAVEEN YADAV GOPIDESHI,FOUR,Super for birthday parties,2019-06-01T09:21:26.661671Z,2019-06-01T09:21:26.661671Z,ChdDSUhNMG9nS0VJQ0FnSUM0bUlqdzFnRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,4,2019-06-01,2019,6,positive
+Ashok Srinivasula,FIVE,"Awesome place for any type functions.
+Good Food and lot of space for parking",2019-06-01T12:50:25.013186Z,2019-06-01T12:50:25.013186Z,ChdDSUhNMG9nS0VJQ0FnSUM0bUwyVjZnRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-01,2019,6,positive
+Gunda Nagaraj,FIVE,,2019-06-01T12:54:02.806337Z,2019-06-01T12:54:02.806337Z,ChdDSUhNMG9nS0VJQ0FnSUM0bUlQczBBRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-01,2019,6,positive
+Ss Ss,FIVE,Service and hall maintenance is excellent,2019-06-01T13:01:43.762019Z,2019-06-01T13:04:09.877008Z,ChdDSUhNMG9nS0VJQ0FnSUM0bU9PemlnRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-01,2019,6,positive
+Jaina Desai,FIVE,,2019-06-01T13:29:45.028069Z,2019-06-01T13:29:45.028069Z,ChZDSUhNMG9nS0VJQ0FnSUM0bU1lS1ZREAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-01,2019,6,positive
+murali s,FIVE,Affordable for all kinds of events with luxurious ambiance.,2019-06-01T14:27:32.582058Z,2019-06-01T14:28:53.055958Z,ChZDSUhNMG9nS0VJQ0FnSUM0Mk5peUJBEAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-01,2019,6,positive
+Praveen Chary Koppoju,FIVE,Awesome Place to do functions!!,2019-06-02T05:28:43.773746Z,2019-06-02T05:28:43.773746Z,ChdDSUhNMG9nS0VJQ0FnSUM0LU83TDV3RRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-02,2019,6,positive
+saikumar reddy,FIVE,👍👍👍👍,2019-06-07T08:51:31.466337Z,2019-06-07T08:51:31.466337Z,ChdDSUhNMG9nS0VJQ0FnSUM0Z2VyZnlBRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-07,2019,6,positive
+Arun Kumar,FIVE,"Good Place , simple and superb for any function to accommodate a decent gathering . Appreciate it !",2019-06-07T21:36:35.124690Z,2019-06-07T21:36:35.124690Z,ChdDSUhNMG9nS0VJQ0FnSUM0MFlidHpRRRAB,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,5,2019-06-07,2019,6,positive
+anand pusa,FOUR,,2019-06-09T04:18:15.979584Z,2019-06-09T04:18:15.979584Z,ChZDSUhNMG9nS0VJQ0FnSUM0cWFuQ2Z3EAE,False,,,reviews-ABHRLXVFMPcVSxyD0NpNgWoN463RA7rx4CEzrs.json,4,2019-06-09,2019,6,positive
+Venkata Sudhir Kumar Guddati,THREE,Good place,2019-06-10T04:56:21.835207Z,2019-06-10T04:56:21.835207Z,ChZDSUhNMG9nS0VJQ0FnSUM0LWIzUkdBEAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,3,2019-06-10,2019,6,neutral
+Vamshi Varma,FOUR,,2019-06-10T05:32:23.378009Z,2019-06-10T05:32:23.378009Z,ChdDSUhNMG9nS0VJQ0FnSUM0LWZPVjF3RRAB,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,4,2019-06-10,2019,6,positive
+David Raj,FOUR,Good place and nice,2019-06-10T10:51:01.962530Z,2019-06-10T10:51:01.962530Z,ChdDSUhNMG9nS0VJQ0FnSUM0aGVtaTBBRRAB,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,4,2019-06-10,2019,6,positive
+manne dinesh,FOUR,Small hall 100 people capacity,2019-06-12T05:34:59.823597Z,2019-06-12T05:34:59.823597Z,ChZDSUhNMG9nS0VJQ0FnSUM0dC02VGNnEAE,True,"Thank you for your review and feedback. We're glad to hear that you found our hall to be well-suited for events with up to 100 guests. Please note that our event specialists are experienced in arranging seating and other event details for different types of events and guest streams. With our spacious 3200 SFT halls on each floor (G1, G2, G3 & Terrace), we can accommodate up to 400 guests.
+
+We understand that choosing the right event space and seating arrangements can be overwhelming, and we're glad to help. As a resource, we recommend checking out the space and capacity calculator provided by banquettablespro.com, which can help you plan your event accordingly. We also have many satisfied customers who have celebrated with more than 300 guests and would be happy to provide references upon request.
+
+Thank you for considering our space for your events, and we hope to have the opportunity to serve you in the future.",2023-02-20T20:55:59.030181Z,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,4,2019-06-12,2019,6,positive
+shruti atreya,FOUR,Good place for 200 capacity functions neatly maintained,2019-06-13T09:46:57.858235Z,2019-06-13T09:46:57.858235Z,ChdDSUhNMG9nS0VJQ0FnSUQ0aW9pSXF3RRAB,True,"Thank you for the positive review! We're glad to hear that you enjoyed your time at our venue. Just to let you know, we can accommodate up to 400 guests across multiple floors of our venue. Our event specialists can help you with the seating arrangements and stream of guests for larger events. Thank you for choosing our venue and we hope to see you again soon!",2023-02-20T21:18:51.701793Z,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,4,2019-06-13,2019,6,positive
+Shravan Medipelly,TWO,,2019-06-19T08:11:20.037228Z,2019-06-19T08:11:20.037228Z,ChdDSUhNMG9nS0VJQ0FnSURFaHByLXFnRRAB,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,2,2019-06-19,2019,6,negative
+RAMESH ROCKS,THREE,,2019-06-21T13:07:28.723475Z,2019-06-21T13:07:28.723475Z,ChZDSUhNMG9nS0VJQ0FnSUNrc3JDVU9BEAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,3,2019-06-21,2019,6,neutral
+ram rajan,FOUR,Good hall,2019-06-22T11:08:53.252656Z,2019-06-22T11:08:53.252656Z,ChdDSUhNMG9nS0VJQ0FnSUNrMFptUzFBRRAB,True,"Thank You, Ram Rajan Garu for the stars. SV Banquet Halls, Mansoorabad, Hyderabad — We feel happy & motivated with your feedback.",2019-11-11T06:46:53.520258Z,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,4,2019-06-22,2019,6,positive
+gangadasu krishna reddy,TWO,,2019-06-22T16:28:45.167734Z,2019-06-22T16:28:45.167734Z,ChdDSUhNMG9nS0VJQ0FnSUNrcFkyS2d3RRAB,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,2,2019-06-22,2019,6,negative
+Emme Naresh,THREE,,2019-06-25T09:53:52.752326Z,2023-01-01T17:39:01.946162Z,ChZDSUhNMG9nS0VJQ0FnSURrd3IyckJnEAE,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,3,2019-06-25,2019,6,neutral
+B Vijay,FIVE,,2019-06-29T10:24:00.900414Z,2019-06-29T10:24:00.900414Z,ChdDSUhNMG9nS0VJQ0FnSURrOGZHMnR3RRAB,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,5,2019-06-29,2019,6,positive
+DHARMA TEJA,THREE,,2019-06-30T02:30:51.228327Z,2019-06-30T02:30:51.228327Z,ChZDSUhNMG9nS0VJQ0FnSURrcWZic1RBEAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,3,2019-06-30,2019,6,neutral
+Kanthi Bhaskar,FIVE,,2019-06-30T15:16:49.928984Z,2019-06-30T15:16:49.928984Z,ChdDSUhNMG9nS0VJQ0FnSURrbWJXTm1RRRAB,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,5,2019-06-30,2019,6,positive
+Shubham Agarwal,THREE,Ac Dont work,2019-07-02T03:10:46.803486Z,2019-07-02T03:10:46.803486Z,ChdDSUhNMG9nS0VJQ0FnSURrcGJ6LTdBRRAB,True,Thank you for your feedback. We apologize for any inconvenience caused by the A/C not working during your visit. We take such issues seriously and have since taken steps to ensure that our A/C system is functioning optimally. We hope to have the opportunity to serve you again soon and exceed your expectations.,2023-02-20T21:11:35.110133Z,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,3,2019-07-02,2019,7,neutral
+Suresh Alaparti,THREE,,2019-07-03T03:46:18.124853Z,2019-07-03T03:46:18.124853Z,ChZDSUhNMG9nS0VJQ0FnSURrdGZpVkNBEAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,3,2019-07-03,2019,7,neutral
+Satish Reddy,THREE,,2019-07-03T11:29:15.770952Z,2019-07-03T11:29:15.770952Z,ChZDSUhNMG9nS0VJQ0FnSURrOVpyWUlREAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,3,2019-07-03,2019,7,neutral
+charani k,FOUR,,2019-07-08T09:15:17.907143Z,2019-07-08T09:15:17.907143Z,ChZDSUhNMG9nS0VJQ0FnSURrcTY3dUh3EAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,4,2019-07-08,2019,7,positive
+Sampath kumar Jella,FIVE,,2019-07-10T07:20:11.119164Z,2019-07-10T07:20:11.119164Z,ChZDSUhNMG9nS0VJQ0FnSURrcDdxcEdREAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,5,2019-07-10,2019,7,positive
+sindhu doll,THREE,Good but a bit far away from highway.,2019-07-10T18:30:21.771496Z,2019-07-10T18:31:32.700622Z,ChdDSUhNMG9nS0VJQ0FnSURrbDh2NV93RRAB,True,This place is 3 minutes drive from National Highway near Sahara Estates.,2019-11-11T07:07:07.675649Z,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,3,2019-07-10,2019,7,neutral
+Kartheek naidu,FOUR,Nice..😊👌,2019-07-13T13:44:32.436913Z,2019-07-13T13:44:32.436913Z,ChZDSUhNMG9nS0VJQ0FnSURrXy0zTk9nEAE,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,4,2019-07-13,2019,7,positive
+Chandra Sekhar Talari,FIVE,,2019-07-13T14:46:42.376081Z,2019-07-13T14:46:42.376081Z,ChdDSUhNMG9nS0VJQ0FnSURrXzgtejZ3RRAB,False,,,reviews-ABHRLXXoFd2OwT2ZYEGXVD0eAMWwlWty2XoWpk.json,5,2019-07-13,2019,7,positive
+S A N J E E V,FIVE,Hmmmm,2019-07-14T14:20:05.805394Z,2019-07-14T14:20:05.805394Z,ChdDSUhNMG9nS0VJQ0FnSUNVa09MTGdRRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-07-14,2019,7,positive
+Tanmai Kamdar,TWO,,2019-07-18T07:35:12.831665Z,2019-07-18T07:35:12.831665Z,ChdDSUhNMG9nS0VJQ0FnSUNVcE1PUV9RRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,2,2019-07-18,2019,7,negative
+Konda Anjaneyulu,FOUR,Nice banquet hall,2019-07-24T16:18:55.380387Z,2019-07-24T16:18:55.380387Z,ChdDSUhNMG9nS0VJQ0FnSUNVbnVURDd3RRAB,True,Thank You Anjaneyulu garu for your positive review.,2019-07-27T05:10:01.868676Z,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,4,2019-07-24,2019,7,positive
+thirupathaiah vaddera,FIVE,,2019-07-27T10:21:43.971782Z,2019-07-27T10:21:43.971782Z,ChdDSUhNMG9nS0VJQ0FnSUNVc2UzaTdRRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-07-27,2019,7,positive
+Padmanabha chari,FOUR,Good,2019-07-28T06:41:21.518330Z,2019-07-28T06:41:21.518330Z,ChdDSUhNMG9nS0VJQ0FnSUNVcVo2YXhRRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,4,2019-07-28,2019,7,positive
+Kiran kumar Chanda,FIVE,Best function hall,2019-07-30T08:35:18.769767Z,2019-07-30T08:35:18.769767Z,ChdDSUhNMG9nS0VJQ0FnSUNVcFp2RnFBRRAB,True,"Your kind words mean a lot to us. We always strive to provide the best service and facilities for our customers, and we're glad to hear that we met your expectations. We look forward to serving you again in the future.",2023-02-20T21:06:19.130256Z,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-07-30,2019,7,positive
+Sree Siddhi vinayaka,FIVE,Beautiful function hall,2019-08-01T17:10:04.577041Z,2019-08-01T17:10:04.577041Z,ChZDSUhNMG9nS0VJQ0FnSUNVbmFhSFRBEAE,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-08-01,2019,8,positive
+Ravilochan,FOUR,,2019-08-04T07:34:28.876967Z,2019-08-04T07:34:28.876967Z,ChdDSUhNMG9nS0VJQ0FnSUNVczZtWG53RRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,4,2019-08-04,2019,8,positive
+Akash Singh,FIVE,,2019-08-07T07:22:28.573264Z,2019-08-07T07:22:28.573264Z,ChdDSUhNMG9nS0VJQ0FnSUNVcDdiYjRnRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-08-07,2019,8,positive
+Mahesh Karre,FIVE,,2019-08-08T07:48:55.710091Z,2019-08-08T07:48:55.710091Z,ChZDSUhNMG9nS0VJQ0FnSUNVdF82S1lREAE,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-08-08,2019,8,positive
+DEEPAK Rayapati,FIVE,,2019-08-09T17:45:14.254945Z,2019-08-09T17:45:14.254945Z,ChdDSUhNMG9nS0VJQ0FnSUNVbjV5VTJRRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-08-09,2019,8,positive
+srikanth reddy,FOUR,,2019-08-10T03:46:08.697941Z,2019-08-10T03:46:08.697941Z,ChZDSUhNMG9nS0VJQ0FnSUNVMzZPaUJnEAE,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,4,2019-08-10,2019,8,positive
+MONIKA PATEL,THREE,Nice place for small functions,2019-08-11T15:17:56.923622Z,2019-08-11T15:18:21.973367Z,ChZDSUhNMG9nS0VJQ0FnSURVMElhNFpBEAE,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,3,2019-08-11,2019,8,neutral
+K R K,FIVE,Good,2019-08-14T13:05:42.185264Z,2019-08-14T13:05:42.185264Z,ChdDSUhNMG9nS0VJQ0FnSURVeEwyOWxnRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-08-14,2019,8,positive
+Bhargav,THREE,,2019-08-21T09:45:17.961281Z,2019-08-21T09:45:17.961281Z,ChZDSUhNMG9nS0VJQ0FnSURVLXEyOFFnEAE,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,3,2019-08-21,2019,8,neutral
+Avinash Chandra,ONE,The lift was not working. AC was not working. Working staff were quite impolite.,2019-08-21T11:21:59.707241Z,2019-08-21T11:21:59.707241Z,ChdDSUhNMG9nS0VJQ0FnSURVaHREUTFBRRAB,True,"We are sorry to hear about your negative experience at our building. Please accept our apologies for the issues you encountered during your visit. We take your feedback seriously and have investigated the issues you raised.
+
+We regret that you experienced inconvenience due to the non-functioning lift and air conditioning. We would like to assure you that we have since resolved these issues and taken steps to prevent such problems in the future. We understand that the non-functioning lift and air conditioning would have made your visit uncomfortable, and we apologize for this.
+
+In addition, we are disappointed to learn that you felt that our working staff were impolite. This is not the level of service that we aim to provide to our customers, and we will be reviewing our training and procedures to ensure that our staff are providing the highest level of service at all times.
+
+We appreciate your feedback and would like to invite you to visit us again to experience the improvements we have made. We value your business and hope to have the opportunity to serve you better in the future.",2023-02-20T20:51:11.535553Z,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,1,2019-08-21,2019,8,negative
+srikar karnati,FOUR,Good,2019-08-26T05:11:28.165318Z,2019-08-26T05:11:28.165318Z,ChdDSUhNMG9nS0VJQ0FnSURVa2NpTDJ3RRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,4,2019-08-26,2019,8,positive
+Sandeep Shekhar,FIVE,,2019-08-27T04:01:00.830405Z,2019-08-27T04:01:00.830405Z,ChdDSUhNMG9nS0VJQ0FnSURVOGIzanZnRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-08-27,2019,8,positive
+santhosh acworks,FIVE,,2019-08-30T14:22:56.456049Z,2019-08-30T14:22:56.456049Z,ChZDSUhNMG9nS0VJQ0FnSURVbFlfb0lREAE,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-08-30,2019,8,positive
+Chaitanya Naidu,FIVE,,2019-09-04T11:27:11.705696Z,2019-09-04T11:27:11.705696Z,ChdDSUhNMG9nS0VJQ0FnSURVeTY3WWtnRRAB,False,,,reviews-ABHRLXXF8bDEU2b7i9hmibb_4Noqcfn9SlWtjR.json,5,2019-09-04,2019,9,positive
+Aarna Ram' S Hyderabad,FOUR,Good for small and medium range parties,2019-09-05T09:26:25.001661Z,2019-09-05T09:26:25.001661Z,ChdDSUhNMG9nS0VJQ0FnSURVbTZ1ZGlnRRAB,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,4,2019-09-05,2019,9,positive
+Alur Venkatesh,FOUR,Good to hire for small functions,2019-09-06T05:13:55.827688Z,2019-09-06T05:13:55.827688Z,ChZDSUhNMG9nS0VJQ0FnSURVLThQZE5BEAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,4,2019-09-06,2019,9,positive
+Megha sai Shyam,FOUR,,2019-09-09T16:17:28.683338Z,2019-09-09T16:17:28.683338Z,ChZDSUhNMG9nS0VJQ0FnSURVMzZINFpREAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,4,2019-09-09,2019,9,positive
+Srinivas reddy Kunduru,FIVE,,2019-09-10T15:42:33.299449Z,2019-09-10T15:42:33.299449Z,ChdDSUhNMG9nS0VJQ0FnSUMwd08zUWl3RRAB,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,5,2019-09-10,2019,9,positive
+Raja G,THREE,,2019-09-22T06:23:35.845875Z,2019-09-22T06:23:35.845875Z,ChdDSUhNMG9nS0VJQ0FnSUMwcW9UMDFBRRAB,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-09-22,2019,9,neutral
+Sarat,THREE,,2019-09-28T12:38:50.613970Z,2019-09-28T12:38:50.613970Z,ChZDSUhNMG9nS0VJQ0FnSUMwdnIySmVREAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-09-28,2019,9,neutral
+srinivas reddy,THREE,,2019-09-28T14:13:58.549185Z,2019-09-28T14:13:58.549185Z,ChZDSUhNMG9nS0VJQ0FnSUMwX3VDRGJnEAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-09-28,2019,9,neutral
+sainath goud,TWO,,2019-09-29T08:41:07.724215Z,2019-09-29T08:41:34.420827Z,ChZDSUhNMG9nS0VJQ0FnSUMwd2RucEtREAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,2,2019-09-29,2019,9,negative
+venkat ramana,FIVE,,2019-09-30T06:18:08.765580Z,2019-09-30T06:18:08.765580Z,ChZDSUhNMG9nS0VJQ0FnSUMwa1l2cGRREAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,5,2019-09-30,2019,9,positive
+Hemanth Reddy naini,FIVE,,2019-10-04T06:24:28.166997Z,2019-10-04T06:24:28.166997Z,ChZDSUhNMG9nS0VJQ0FnSUMweGN1eUZ3EAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,5,2019-10-04,2019,10,positive
+srinivas kumar,FOUR,,2019-10-07T16:02:44.810138Z,2019-10-07T16:02:44.810138Z,ChZDSUhNMG9nS0VJQ0FnSUMwdmF6ek5nEAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,4,2019-10-07,2019,10,positive
+Kalpana Reddy,THREE,,2019-10-16T13:35:45.951536Z,2019-10-16T13:35:45.951536Z,ChZDSUhNMG9nS0VJQ0FnSUMwMzhfd1NREAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-10-16,2019,10,neutral
+sandeep kumar,THREE,Good,2019-10-17T12:59:48.642979Z,2019-10-17T12:59:48.642979Z,ChZDSUhNMG9nS0VJQ0FnSUQwZ0tmdFJ3EAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-10-17,2019,10,neutral
+Ramesh Kumar,FOUR,,2019-10-21T03:44:19.316779Z,2019-10-21T03:44:19.316779Z,ChZDSUhNMG9nS0VJQ0FnSUQwNk5uS2JnEAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,4,2019-10-21,2019,10,positive
+venkata sudhir kumar Guddati,THREE,,2019-10-22T07:16:07.412122Z,2019-10-22T07:16:07.412122Z,ChdDSUhNMG9nS0VJQ0FnSUQwdUp2eDlBRRAB,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-10-22,2019,10,neutral
+seetha BharathKumar,FIVE,,2019-10-23T08:49:36.097342Z,2019-10-23T08:49:36.097342Z,ChdDSUhNMG9nS0VJQ0FnSUQweE1mUmtnRRAB,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,5,2019-10-23,2019,10,positive
+Arnav Mukherjee,THREE,Good facilities. Staircase and lift need to be wider for more people to leave simultaneously in case of an emergency.,2019-10-24T13:21:52.892104Z,2019-10-24T13:21:52.892104Z,ChZDSUhNMG9nS0VJQ0FnSUQwMU1HQ1BREAE,True,"Thank you, Arnav, for appreciating the facilities at our building. However, we kindly request that in the event of an emergency, you do not use the lift or elevator and instead use the staircase. Our building is 4 floors in height and the staircase is designed to accommodate the total occupancy of the building. In fact, if you were to compare the size of our staircase to that of a large mall with a similar occupancy, you would find that our staircase is actually much larger.
+
+Thank you for understanding and for your cooperation in ensuring the safety and well-being of all occupants of the building.",2023-02-20T20:44:25.828210Z,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-10-24,2019,10,neutral
+Gunjesh Kumar,THREE,,2019-10-24T18:09:17.938570Z,2019-10-24T18:09:17.938570Z,ChdDSUhNMG9nS0VJQ0FnSUQwdExTNWpRRRAB,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-10-24,2019,10,neutral
+Rakesh Nahak,THREE,,2019-10-28T08:15:40.194964Z,2019-10-28T08:15:40.194964Z,ChdDSUhNMG9nS0VJQ0FnSUQwZ3RTbGxRRRAB,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,3,2019-10-28,2019,10,neutral
+Dr Yogeshwar Reddy,FIVE,,2019-10-31T08:10:36.260300Z,2019-10-31T08:10:36.260300Z,ChZDSUhNMG9nS0VJQ0FnSUQwaXZHS1RREAE,False,,,reviews-ABHRLXV3hFYvjzSzMy9cyfGwXfgNmX_-f2iTmh.json,5,2019-10-31,2019,10,positive
+Saiprakash Yatham,FIVE,,2019-11-01T03:58:50.633275Z,2019-11-01T03:58:50.633275Z,ChZDSUhNMG9nS0VJQ0FnSUQwNnA2M0V3EAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2019-11-01,2019,11,positive
+Nikhilreddy Cheruku,FIVE,,2019-11-02T10:17:00.998082Z,2019-11-02T10:17:00.998082Z,ChdDSUhNMG9nS0VJQ0FnSUQwdXAtdzN3RRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2019-11-02,2019,11,positive
+Karan Reddy Meda,THREE,,2019-11-02T11:18:55.315063Z,2019-11-02T11:18:55.315063Z,ChdDSUhNMG9nS0VJQ0FnSUQwLXZqaTV3RRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,3,2019-11-02,2019,11,neutral
+mallipudi sureshbabu,FOUR,Good for mini functions,2019-11-05T19:36:27.261662Z,2019-11-05T19:36:27.261662Z,ChZDSUhNMG9nS0VJQ0FnSUQwcnRmQlpREAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,4,2019-11-05,2019,11,positive
+Shakeel Hancy,FIVE,,2019-11-10T01:49:40.494409Z,2019-11-10T01:49:40.494409Z,ChZDSUhNMG9nS0VJQ0FnSUQwaWVQWVp3EAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2019-11-10,2019,11,positive
+pradyumna kumar,FOUR,,2019-11-18T10:43:32.220936Z,2019-11-18T10:43:32.220936Z,ChZDSUhNMG9nS0VJQ0FnSUQwbzZtZVlREAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,4,2019-11-18,2019,11,positive
+Rajitha Veeraghu,FIVE,,2019-11-19T10:41:33.279340Z,2019-11-19T10:41:33.279340Z,ChdDSUhNMG9nS0VJQ0FnSUNNME1uQXBRRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2019-11-19,2019,11,positive
+mahesh varma,TWO,,2019-12-05T14:17:58.714472Z,2019-12-05T14:17:58.714472Z,ChZDSUhNMG9nS0VJQ0FnSUNNaV9tMkpREAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,2,2019-12-05,2019,12,negative
+Teja Chowdary,FOUR,,2019-12-18T08:01:52.234898Z,2019-12-18T08:01:52.234898Z,ChdDSUhNMG9nS0VJQ0FnSURNMVBXeXRnRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,4,2019-12-18,2019,12,positive
+Sony Reddy,FIVE,,2019-12-29T08:42:48.095938Z,2019-12-29T08:42:48.095938Z,ChdDSUhNMG9nS0VJQ0FnSURNMXE3cHFRRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2019-12-29,2019,12,positive
+Nikhil Varma M,FOUR,,2020-01-04T11:51:59.938296Z,2020-01-04T11:51:59.938296Z,ChdDSUhNMG9nS0VJQ0FnSURNbWZpczRRRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,4,2020-01-04,2020,1,positive
+vinay reddy,THREE,,2020-01-06T09:29:18.297480Z,2020-01-06T09:29:18.297480Z,ChdDSUhNMG9nS0VJQ0FnSURNNWQ3dTB3RRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,3,2020-01-06,2020,1,neutral
+CHAITANYA REDDYREDDY,FIVE,,2020-02-01T13:43:51.613413Z,2020-02-01T13:43:51.613413Z,ChdDSUhNMG9nS0VJQ0FnSUNzOXB6dXdnRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2020-02-01,2020,2,positive
+Rushikesh Reddy,FOUR,Good food and plenty space,2020-02-02T15:13:08.771597Z,2020-02-02T15:13:08.771597Z,ChdDSUhNMG9nS0VJQ0FnSUNzN3BYN2dBRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,4,2020-02-02,2020,2,positive
+Raghu Sravan Reddy Katta,THREE,,2020-02-05T08:32:27.405911Z,2020-02-05T08:32:27.405911Z,ChdDSUhNMG9nS0VJQ0FnSUNzMGZiYjlBRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,3,2020-02-05,2020,2,neutral
+shiva shalivahana,FOUR,,2020-02-09T06:32:07.246279Z,2020-02-09T06:32:07.246279Z,ChZDSUhNMG9nS0VJQ0FnSUNzbGIySU9nEAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,4,2020-02-09,2020,2,positive
+muni babu,FIVE,,2020-02-15T11:28:56.440633Z,2020-02-15T11:28:56.440633Z,ChdDSUhNMG9nS0VJQ0FnSUNzbTctNmlnRRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2020-02-15,2020,2,positive
+Chittimelly Sainath,THREE,,2020-02-16T09:12:17.006169Z,2020-02-16T09:12:17.006169Z,ChZDSUhNMG9nS0VJQ0FnSUNzeC1TS0xREAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,3,2020-02-16,2020,2,neutral
+Venkatesh Prasad,FIVE,Nice,2020-02-16T09:42:28.996248Z,2020-02-16T09:42:28.996248Z,ChdDSUhNMG9nS0VJQ0FnSUNzeDd6b193RRAB,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,5,2020-02-16,2020,2,positive
+SAICHITTU 501,TWO,"(Translated by Google) cake
+
+(Original)
+keka",2020-02-17T07:38:16.597764Z,2020-02-17T07:38:16.597764Z,ChZDSUhNMG9nS0VJQ0FnSUNzMTlMUE93EAE,False,,,reviews-ABHRLXW-_4PUtyT1JUW_IU8GTVS--u7S7jnW8h.json,2,2020-02-17,2020,2,negative
+Ramakrishna M,THREE,,2020-02-23T04:02:00.555226Z,2020-02-23T04:02:00.555226Z,ChdDSUhNMG9nS0VJQ0FnSURzdU5DUTRBRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,3,2020-02-23,2020,2,neutral
+karthik kotha,ONE,"Very frequent power cut off ....management did not do any proper alternatives. Power cutoff is so frequent , there is no power for every 2 minutes.",2020-02-23T08:55:15.987447Z,2020-02-23T08:55:15.987447Z,ChdDSUhNMG9nS0VJQ0FnSURzdUtPMmp3RRAB,True,"We understand and share your disappointment regarding the power outages experienced in the area. The government had undertaken maintenance activities pertaining to trees, which led to unprecedented power cuts. To alleviate the situation, we utilized our backup power sources to provide electricity throughout the day. We apologize for any inconvenience caused.",2023-02-20T20:27:20.751496Z,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,1,2020-02-23,2020,2,negative
+Venkat Goud,FIVE,,2020-03-05T17:56:26.457281Z,2020-03-05T17:56:26.457281Z,ChdDSUhNMG9nS0VJQ0FnSURzX3ZEQTVRRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-03-05,2020,3,positive
+lavanya reddy,FIVE,,2020-03-25T20:12:56.007692Z,2020-03-25T20:12:56.007692Z,ChZDSUhNMG9nS0VJQ0FnSUNjX2FuVlVnEAE,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-03-25,2020,3,positive
+Ravi Motam,FIVE,,2020-07-30T16:12:31.076752Z,2020-07-30T16:12:31.076752Z,ChZDSUhNMG9nS0VJQ0FnSUQ4bTR5LVBnEAE,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-07-30,2020,7,positive
+mani punna,FIVE,,2020-08-15T13:47:24.218133Z,2020-08-15T13:47:24.218133Z,ChdDSUhNMG9nS0VJQ0FnSUNDbk5fSm9BRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-08-15,2020,8,positive
+UwU OwO,FIVE,,2020-08-23T02:10:40.056112Z,2020-08-23T02:10:40.056112Z,ChdDSUhNMG9nS0VJQ0FnSUNDcnJLOXdnRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-08-23,2020,8,positive
+Raghu Ram,FIVE,,2020-10-07T00:35:30.709340Z,2020-10-07T00:35:30.709340Z,ChZDSUhNMG9nS0VJQ0FnSURDcmJTVVJBEAE,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-10-07,2020,10,positive
+rekha raj,FOUR,,2020-10-22T07:06:10.868853Z,2020-10-22T07:06:10.868853Z,ChdDSUhNMG9nS0VJQ0FnSUNpcEwzeW5nRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,4,2020-10-22,2020,10,positive
+Vuppu Santhosh Kumar,FIVE,Loved this place,2020-10-24T17:31:43.010608Z,2020-10-24T17:32:12.776574Z,ChZDSUhNMG9nS0VJQ0FnSUNpbktPUlh3EAE,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-10-24,2020,10,positive
+Sagar Singh,FIVE,,2020-11-21T07:19:54.079142Z,2020-11-21T07:19:54.079142Z,ChdDSUhNMG9nS0VJQ0FnSURpb0tibnFBRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-11-21,2020,11,positive
+santosh rayagiri,THREE,,2020-11-21T08:26:51.608745Z,2020-11-21T08:26:51.608745Z,ChdDSUhNMG9nS0VJQ0FnSURpb05HOTZ3RRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,3,2020-11-21,2020,11,neutral
+Bobbili Chandrasekhar,FOUR,Good,2020-11-21T10:15:58.101928Z,2020-11-21T10:15:58.101928Z,ChZDSUhNMG9nS0VJQ0FnSURpb05PWWJ3EAE,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,4,2020-11-21,2020,11,positive
+Srinivas Ksheerasagar,FOUR,,2020-11-23T02:48:52.363392Z,2020-11-23T02:48:52.363392Z,ChdDSUhNMG9nS0VJQ0FnSURpaUpuTDZBRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,4,2020-11-23,2020,11,positive
+Raj Prematho,ONE,,2020-11-25T06:03:19.055326Z,2020-11-25T06:03:19.055326Z,ChZDSUhNMG9nS0VJQ0FnSURpcExUeU5nEAE,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,1,2020-11-25,2020,11,negative
+SatyaSyam Puppala,FIVE,,2020-11-26T03:00:48.925848Z,2020-11-26T03:00:48.925848Z,ChZDSUhNMG9nS0VJQ0FnSURpMU1UeEp3EAE,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-11-26,2020,11,positive
+Bharath Raj,FOUR,,2020-11-29T04:41:12.459138Z,2020-11-29T04:41:12.459138Z,ChdDSUhNMG9nS0VJQ0FnSURpX0xUVnR3RRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,4,2020-11-29,2020,11,positive
+vishal reddy,THREE,"Place is a bit conjusted, but ok for a small party.",2020-12-04T17:43:01.379588Z,2020-12-04T17:43:19.217390Z,ChZDSUhNMG9nS0VJQ0FnSURpZ2J1WEJBEAE,True,"Thank you for sharing your feedback with us. We're glad that our banquet hall met your expectations for your party. We understand that our hall may seem a bit congested at times, but we always try our best to make the most of the available space. If you have any suggestions for us to improve your experience, we are open to hearing them. Thank you for choosing our banquet hall and we hope to see you again soon.",2023-02-20T21:17:05.977130Z,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,3,2020-12-04,2020,12,neutral
+suresh kumar,FIVE,,2020-12-09T10:19:42.137586Z,2020-12-09T10:19:42.137586Z,ChdDSUhNMG9nS0VJQ0FnSURpLVpXWWxnRRAB,False,,,reviews-ABHRLXVMUZ-2gomSfgBiwTGq4_z6A0GmbSqc00.json,5,2020-12-09,2020,12,positive
+Lucky Srikanth,THREE,,2020-12-09T12:24:46.347109Z,2020-12-09T12:24:46.347109Z,ChdDSUhNMG9nS0VJQ0FnSURpaGNDVjZnRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,3,2020-12-09,2020,12,neutral
+Rajugupta Dachepally,FIVE,,2020-12-10T14:42:56.491074Z,2020-12-10T14:42:56.491074Z,ChdDSUhNMG9nS0VJQ0FnSURpbGZTMjJBRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,5,2020-12-10,2020,12,positive
+Sunil Kumar M,FOUR,,2020-12-11T06:03:25.776204Z,2020-12-11T06:03:25.776204Z,ChZDSUhNMG9nS0VJQ0FnSUNTZ01Yd2NREAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,4,2020-12-11,2020,12,positive
+Chandu yerpedu,FIVE,Excellent..,2020-12-16T11:38:51.248117Z,2020-12-16T11:38:51.248117Z,ChdDSUhNMG9nS0VJQ0FnSUNTeGRPcjFRRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,5,2020-12-16,2020,12,positive
+vyas kumar,TWO,,2020-12-17T11:16:05.199377Z,2020-12-17T11:16:05.199377Z,ChZDSUhNMG9nS0VJQ0FnSUNTcTlyYlJREAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,2,2020-12-17,2020,12,negative
+Suresh Kumar,FOUR,,2020-12-21T19:07:36.403441Z,2020-12-21T19:07:36.403441Z,ChZDSUhNMG9nS0VJQ0FnSURTNnRXOE5nEAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,4,2020-12-21,2020,12,positive
+Kusa Premchand Reddy,THREE,Awesome,2021-01-01T14:59:55.341166Z,2021-01-01T14:59:55.341166Z,ChdDSUhNMG9nS0VJQ0FnSURTdWR2dXdnRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,3,2021-01-01,2021,1,neutral
+chandrashekar p,THREE,,2021-01-03T11:08:30.057337Z,2021-01-03T11:08:30.057337Z,ChdDSUhNMG9nS0VJQ0FnSURTbGNtSGtnRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,3,2021-01-03,2021,1,neutral
+B Praveen Kumar,FIVE,,2021-01-04T13:02:49.236628Z,2021-01-04T13:02:49.236628Z,ChZDSUhNMG9nS0VJQ0FnSURTamZ5V1hREAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,5,2021-01-04,2021,1,positive
+shekar guda,FIVE,Well maintained..,2021-01-06T10:51:45.376405Z,2021-01-06T10:52:02.315401Z,ChdDSUhNMG9nS0VJQ0FnSURTX2I2NjdnRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,5,2021-01-06,2021,1,positive
+Trailokya Baruah,THREE,,2021-01-09T09:37:07.567478Z,2021-01-09T09:37:07.567478Z,ChdDSUhNMG9nS0VJQ0FnSURTeTkzZTZRRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,3,2021-01-09,2021,1,neutral
+Zayeem Uddin,FOUR,,2021-01-10T08:31:50.058300Z,2021-01-10T08:31:50.058300Z,ChZDSUhNMG9nS0VJQ0FnSURTbTZmNkJREAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,4,2021-01-10,2021,1,positive
+Ramesh Reddy,THREE,,2021-01-10T09:44:06.844970Z,2021-01-10T09:44:06.844970Z,ChdDSUhNMG9nS0VJQ0FnSURTMjVENzB3RRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,3,2021-01-10,2021,1,neutral
+Vinay Naidu,FIVE,,2021-01-14T03:20:31.673802Z,2021-01-14T03:20:31.673802Z,ChZDSUhNMG9nS0VJQ0FnSURTN18yaFB3EAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,5,2021-01-14,2021,1,positive
+Ketam Srinivas,FIVE,,2021-01-17T13:02:23.490040Z,2021-01-17T13:02:23.490040Z,ChZDSUhNMG9nS0VJQ0FnSUN5aUxtdkdREAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,5,2021-01-17,2021,1,positive
+SaKeTh MyLaVaRaPu,FOUR,,2021-01-17T17:33:19.065543Z,2021-01-17T17:33:19.065543Z,ChZDSUhNMG9nS0VJQ0FnSUN5eU1xalpnEAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,4,2021-01-17,2021,1,positive
+Mujeeb Ahmed,FOUR,,2021-01-19T04:50:18.843170Z,2021-01-19T04:50:18.843170Z,ChdDSUhNMG9nS0VJQ0FnSUN5dUxiLTZnRRAB,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,4,2021-01-19,2021,1,positive
+Ashok Pittla,THREE,,2021-01-28T14:35:02.851113Z,2021-01-28T14:35:08.306924Z,ChZDSUhNMG9nS0VJQ0FnSUN5eHBmYkRnEAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,3,2021-01-28,2021,1,neutral
+Uday Netha,THREE,Normal,2021-02-01T11:50:02.935065Z,2021-02-01T11:50:02.935065Z,ChZDSUhNMG9nS0VJQ0FnSUN5X3V6UUhnEAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,3,2021-02-01,2021,2,neutral
+prashanthreddy alugubelli,TWO,,2021-02-03T07:33:34.415910Z,2021-02-03T07:33:34.415910Z,ChZDSUhNMG9nS0VJQ0FnSUN5MGJQZE9BEAE,False,,,reviews-ABHRLXWCiWbt6LVSFaFcZBsaEAtjHXDEaEc_s6.json,2,2021-02-03,2021,2,negative
+prince vajeed,THREE,,2021-02-10T14:03:02.277262Z,2021-02-10T14:03:02.277262Z,ChZDSUhNMG9nS0VJQ0FnSUN5X2ZyNGV3EAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,3,2021-02-10,2021,2,neutral
+surya nai,FIVE,,2021-02-14T09:17:46.238211Z,2021-02-14T09:17:46.238211Z,ChdDSUhNMG9nS0VJQ0FnSUN5Mi02eXZnRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-02-14,2021,2,positive
+Anand Vanam,FIVE,,2021-02-17T10:27:51.756307Z,2021-02-17T10:27:51.756307Z,ChdDSUhNMG9nS0VJQ0FnSUN5OTYyTDZnRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-02-17,2021,2,positive
+Ravirala Ganesh,FIVE,,2021-02-17T14:16:00.351006Z,2021-02-17T14:16:00.351006Z,ChZDSUhNMG9nS0VJQ0FnSUN5ajhIT0lBEAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-02-17,2021,2,positive
+Rinky Madanala,FOUR,,2021-02-18T10:24:03.731614Z,2021-02-18T10:24:03.731614Z,ChdDSUhNMG9nS0VJQ0FnSUN5Ny1ITm5nRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,4,2021-02-18,2021,2,positive
+Sreekanth netha,FIVE,,2021-02-19T07:53:34.871446Z,2021-02-19T07:53:34.871446Z,ChZDSUhNMG9nS0VJQ0FnSUN5djdQTEJ3EAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-02-19,2021,2,positive
+Sharath sura,FIVE,,2021-02-23T12:11:15.511578Z,2021-02-23T12:11:15.511578Z,ChdDSUhNMG9nS0VJQ0FnSUR5Mk9yWDdnRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-02-23,2021,2,positive
+Varkala Prakash,FIVE,Richness overloaded,2021-02-28T02:57:23.882741Z,2021-02-28T02:57:23.882741Z,ChZDSUhNMG9nS0VJQ0FnSUR5dk1pV1ZnEAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-02-28,2021,2,positive
+charan reddy,THREE,Ac section in not properly supervised,2021-02-28T10:52:57.025889Z,2021-02-28T10:53:13.770307Z,ChdDSUhNMG9nS0VJQ0FnSUR5X0xEUGx3RRAB,True,"Thank you for your feedback and for choosing our establishment. We are glad to hear that you had an overall satisfactory experience, but we are disappointed to learn that you found the AC section to be inadequately supervised.
+
+We apologize for any inconvenience caused and we assure you that we take all feedback seriously, and we will be reviewing our supervision and management procedures to ensure that our AC section is properly supervised at all times.
+
+We would like to thank you again for your feedback and we hope to have the opportunity to serve you better in the future. If there is anything further you would like to discuss, please do not hesitate to reach out to us.",2023-02-20T20:52:57.239926Z,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,3,2021-02-28,2021,2,neutral
+Ashok Babu Boppana,FOUR,,2021-03-01T05:51:12.453764Z,2021-03-01T05:51:12.453764Z,ChdDSUhNMG9nS0VJQ0FnSUR5d3Z2STBBRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,4,2021-03-01,2021,3,positive
+goolla chiranjivi,FOUR,,2021-03-06T11:54:54.329572Z,2021-03-06T11:54:56.362280Z,ChZDSUhNMG9nS0VJQ0FnSUR5bHMtellnEAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,4,2021-03-06,2021,3,positive
+Subham Prasad,FIVE,,2021-03-09T10:18:04.512775Z,2021-03-09T10:18:04.512775Z,ChdDSUhNMG9nS0VJQ0FnSUR5X3Z5OGxRRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-03-09,2021,3,positive
+ashok lingam,ONE,,2021-03-19T09:44:08.082402Z,2021-03-19T09:44:08.082402Z,ChZDSUhNMG9nS0VJQ0FnSUR5LTdPN1JnEAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,1,2021-03-19,2021,3,negative
+Kavya Vamsi,FIVE,,2021-03-21T11:31:38.535872Z,2021-03-21T11:31:38.535872Z,ChdDSUhNMG9nS0VJQ0FnSUR5OTRTT29RRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-03-21,2021,3,positive
+Raju Chetla,TWO,It's compact difficult to breathe if more than 150 people. Below 100 people Only suitable,2021-03-26T19:25:26.978022Z,2021-03-26T19:26:23.572806Z,ChdDSUhNMG9nS0VJQ0FnSUNLNktqcnd3RRAB,True,"Thank you for taking the time to share your feedback with us. We're sorry to hear that you found our hall compact and difficult to breathe in when more than 150 people are present. While our hall is indeed designed to be more suitable for smaller events, we also strive to ensure that every guest is comfortable during their time with us. We take all feedback seriously and will use your comments to improve the overall experience we offer our guests.
+
+If you have any suggestions or ideas for how we can better accommodate larger groups, we would be happy to hear them. Our goal is to provide an enjoyable and comfortable experience for everyone who chooses our hall for their events. Thank you again for your feedback, and we hope to have the opportunity to serve you again in the future.
+
+",2023-02-20T20:59:51.782850Z,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,2,2021-03-26,2021,3,negative
+Shekar. Yasa,ONE,,2021-03-30T17:30:44.470732Z,2021-03-30T17:30:44.470732Z,ChdDSUhNMG9nS0VJQ0FnSUNLb295eHB3RRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,1,2021-03-30,2021,3,negative
+Koti Pagilla,FIVE,,2021-04-04T08:18:16.282090Z,2021-04-04T08:18:16.282090Z,ChdDSUhNMG9nS0VJQ0FnSUNLbHZTRjJRRRAB,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-04-04,2021,4,positive
+Screen Master Minds,FIVE,,2021-04-08T16:05:15.214785Z,2021-04-08T16:05:15.214785Z,ChZDSUhNMG9nS0VJQ0FnSUNLa2NUZGJBEAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,5,2021-04-08,2021,4,positive
+Parmesh K,FOUR,,2021-04-19T02:42:11.275673Z,2021-04-19T02:42:12.058852Z,ChZDSUhNMG9nS0VJQ0FnSUNLeTY3M1hnEAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,4,2021-04-19,2021,4,positive
+nani gaani studio,ONE,,2021-05-03T12:08:04.978313Z,2021-05-03T12:08:04.978313Z,ChZDSUhNMG9nS0VJQ0FnSURLN09tUFdREAE,False,,,reviews-ABHRLXWATDMJ-MecnbFyR8d1YnevoO24lvQm5-.json,1,2021-05-03,2021,5,negative
+Nagesh Gorige,THREE,,2021-05-27T03:57:14.504649Z,2021-05-27T03:57:14.504649Z,ChZDSUhNMG9nS0VJQ0FnSUNxaExYRFNnEAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,3,2021-05-27,2021,5,neutral
+uday reddy,FIVE,,2021-05-28T12:35:12.275646Z,2021-05-28T12:35:12.275646Z,ChdDSUhNMG9nS0VJQ0FnSUNxMUszczdnRRAB,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,5,2021-05-28,2021,5,positive
+Dr Narayan Nama,FOUR,good one,2021-07-09T15:14:58.164332Z,2021-07-09T15:14:58.164332Z,ChdDSUhNMG9nS0VJQ0FnSURxbnJXVmx3RRAB,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,4,2021-07-09,2021,7,positive
+vuyyala suresh,FOUR,,2021-07-11T06:48:17.317526Z,2021-07-11T06:48:17.317526Z,ChdDSUhNMG9nS0VJQ0FnSURxNGY2cnFRRRAB,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,4,2021-07-11,2021,7,positive
+Mani Teja Pagidimarri,TWO,"Prefer the AC hall, non AC hall is worst",2021-07-14T03:34:44.357143Z,2021-07-14T03:34:44.357143Z,ChZDSUhNMG9nS0VJQ0FnSURxbGNyMVB3EAE,True,"Thank you for your feedback. We apologize for any inconvenience caused during your previous visit. We do have an AC hall available in the building which you can book for your next event. It is well-maintained and has a capacity of up to 400 guests. Please feel free to contact us to book the AC hall for your next event.
+
+Thank you for considering SV Banquet Halls.",2023-02-20T21:20:55.660739Z,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,2,2021-07-14,2021,7,negative
+Mahipal Mahi,FIVE,,2021-07-27T17:21:18.458502Z,2021-07-27T17:21:18.458502Z,ChZDSUhNMG9nS0VJQ0FnSUNhc3NIRVl3EAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,5,2021-07-27,2021,7,positive
+laddu laddu Balu,TWO,,2021-07-28T08:35:29.724535Z,2021-07-28T08:35:29.724535Z,ChZDSUhNMG9nS0VJQ0FnSUNheW9TV01nEAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,2,2021-07-28,2021,7,negative
+TPP VIKAS GAMING YT,TWO,Nageshwar rao,2021-07-30T16:02:10.313812Z,2021-07-30T16:02:27.552385Z,ChdDSUhNMG9nS0VJQ0FnSUNhNXFfYzZBRRAB,True,"Thank you for taking the time to share your feedback with us. We take all feedback seriously and are sorry to hear that your experience did not meet your expectations. We will do our best to address any concerns you have raised and ensure that we continue to provide excellent service to our customers. If you have any further feedback, please do not hesitate to reach out to us directly. Thank you again for your review.",2023-02-20T21:10:16.093060Z,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,2,2021-07-30,2021,7,negative
+dinesh aindala,FOUR,,2021-07-31T06:26:25.589888Z,2021-07-31T06:26:25.589888Z,ChZDSUhNMG9nS0VJQ0FnSUNhdHZiQWJ3EAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,4,2021-07-31,2021,7,positive
+AJAYKUMAR KURAPATI,FIVE,,2021-08-11T01:09:39.936962Z,2021-08-11T01:09:39.936962Z,ChZDSUhNMG9nS0VJQ0FnSUNhbC1DbmFnEAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,5,2021-08-11,2021,8,positive
+Mamatha Budige,ONE,,2021-08-11T10:44:04.053472Z,2021-08-11T10:44:04.053472Z,ChdDSUhNMG9nS0VJQ0FnSUNhMTl2M3dRRRAB,True,"Dear Mamatha Budige,
+
+Thank you for sharing your feedback regarding your past experience at S V Banquet Halls. We apologize for any inconvenience or disappointment you may have experienced.
+
+We understand that it has been a year since your visit, and we appreciate your feedback. While we may not be able to address the specific details of that particular event, your feedback is important to us. It helps us identify areas for improvement and ensure that we continue to provide exceptional service to all our guests.
+
+We sincerely apologize for any shortcomings you encountered during your visit, and we would like to assure you that we have taken your feedback seriously. Our team is committed to continuously enhancing our services and ensuring a positive experience for all our guests.
+
+Thank you for bringing your concerns to our attention, and we hope to have the opportunity to welcome you back in the future and provide you with an improved experience.
+
+Best regards,
+Owner
+S V Banquet Halls",2023-06-10T21:25:22.062031Z,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,1,2021-08-11,2021,8,negative
+Chandra Shekar,THREE,,2021-08-11T11:33:36.848497Z,2021-08-11T11:33:36.848497Z,ChdDSUhNMG9nS0VJQ0FnSUNhdDZpVWh3RRAB,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,3,2021-08-11,2021,8,neutral
+praveen baddam,FOUR,,2021-08-12T02:14:30.490464Z,2021-08-12T02:14:30.490464Z,ChZDSUhNMG9nS0VJQ0FnSUNhejg3S1JREAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,4,2021-08-12,2021,8,positive
+THAGILI SAI KUMAR,TWO,,2021-08-16T03:45:10.445860Z,2021-08-16T03:45:10.445860Z,ChZDSUhNMG9nS0VJQ0FnSURhbElQSmV3EAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,2,2021-08-16,2021,8,negative
+Ratnakar Erigi,FIVE,Good,2021-08-17T17:11:07.586297Z,2021-08-17T17:11:07.586297Z,ChZDSUhNMG9nS0VJQ0FnSURha3BDc2NnEAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,5,2021-08-17,2021,8,positive
+Gaja jabade,FOUR,,2021-08-18T09:02:12.674586Z,2025-06-12T15:53:26.855763Z,ChZDSUhNMG9nS0VJQ0FnSURhc3EtUUJBEAE,False,,,reviews.json,4,2021-08-18,2021,8,positive
+Rathan Kranz,THREE,,2021-08-22T15:50:16.967164Z,2021-08-22T15:50:16.967164Z,ChZDSUhNMG9nS0VJQ0FnSURhbnFhQ0FnEAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,3,2021-08-22,2021,8,neutral
+Vidyam Rohith,THREE,,2021-08-24T15:54:20.597050Z,2021-08-24T15:54:20.597050Z,ChZDSUhNMG9nS0VJQ0FnSURhemQ3a013EAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,3,2021-08-24,2021,8,neutral
+Rajesh Raju,FIVE,,2021-08-26T12:03:48.130981Z,2021-08-26T12:03:48.130981Z,ChdDSUhNMG9nS0VJQ0FnSURhbjluTC1nRRAB,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,5,2021-08-26,2021,8,positive
+Arige Vinod,ONE,,2021-08-27T14:52:55.595828Z,2021-08-27T14:52:55.595828Z,ChZDSUhNMG9nS0VJQ0FnSUM2b0lpZkxnEAE,True,"Dear Arige Vinod,
+
+Thank you for sharing your feedback regarding your experience at S V Banquet Halls. We are sorry to hear that your experience did not meet your expectations.
+
+We strive to provide excellent service and create memorable events for our guests, and we regret any inconvenience or disappointment you may have encountered during your visit. Your feedback is important to us, and we take it seriously as we continuously improve our services.
+
+We would appreciate the opportunity to discuss your concerns in more detail and find a way to address them. Please reach out to our management team directly so that we can work towards a resolution.
+
+Thank you for bringing this to our attention, and we hope to have the opportunity to serve you better in the future.
+
+Best regards,
+Owner
+S V Banquet Halls",2023-06-10T21:22:33.901325Z,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,1,2021-08-27,2021,8,negative
+Keerthana Reddy Vutukure,FIVE,,2021-08-29T23:03:49.587691Z,2021-08-29T23:03:49.587691Z,ChZDSUhNMG9nS0VJQ0FnSUM2bVA3T0pBEAE,False,,,reviews-ABHRLXWUmDg--30QEMagDsaMj3nqZkVsFXTJvX.json,5,2021-08-29,2021,8,positive
+Film Bliss,FOUR,,2021-09-03T08:22:30.030145Z,2021-09-03T08:22:30.030145Z,ChZDSUhNMG9nS0VJQ0FnSUM2LXRLSlFREAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,4,2021-09-03,2021,9,positive
+Honey Harish,FIVE,,2021-09-03T14:56:19.294401Z,2021-09-03T14:56:19.294401Z,ChdDSUhNMG9nS0VJQ0FnSUM2eHFDRnZRRRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-09-03,2021,9,positive
+anji teja,TWO,,2021-09-05T11:16:13.773746Z,2021-09-05T11:16:14.671698Z,ChZDSUhNMG9nS0VJQ0FnSUM2M283dFJnEAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,2,2021-09-05,2021,9,negative
+DR ERSHAD,TWO,"Nonsense parking, no proper lift, worst management.",2021-09-05T18:47:33.368103Z,2021-09-05T18:47:33.368103Z,ChZDSUhNMG9nS0VJQ0FnSUM2X3RqMlFBEAE,True,"Thank you for your feedback regarding your experience at our building. We are sorry to hear that you had a negative experience, and we appreciate your feedback. We understand that parking can be a concern for our customers, and we are working to address this by arranging for valet parking services for the convenience of our patrons and their guests.
+
+Additionally, we take pride in our well-maintained lifts and ensure that they are regularly serviced and in good working condition. We apologize if you encountered any issues with our lifts, and we would appreciate it if you could provide us with more specific details so that we can investigate the issue and ensure that our lifts are functioning properly.
+
+Finally, we strive to provide the best possible service to our customers, and we apologize if you felt that our management fell short in any way. We take your feedback seriously and are committed to making any necessary improvements to better serve our customers.
+
+Thank you again for your feedback, and we hope to have the opportunity to serve you better in the future.",2023-02-20T20:48:49.311296Z,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,2,2021-09-05,2021,9,negative
+Ponangi Sandhya,FIVE,,2021-09-07T01:48:06.114081Z,2021-09-07T01:48:06.114081Z,ChZDSUhNMG9nS0VJQ0FnSUM2a2JlZkpREAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-09-07,2021,9,positive
+Bharath Goud Madhagoni,FIVE,Nice place,2021-09-09T10:32:35.040586Z,2021-09-09T10:32:35.040586Z,ChZDSUhNMG9nS0VJQ0FnSUM2cGVQVWR3EAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-09-09,2021,9,positive
+Jaya Sundar Raj S J,FIVE,,2021-09-12T04:45:48.025353Z,2021-09-12T04:45:48.025353Z,ChdDSUhNMG9nS0VJQ0FnSUM2ay1QOTBRRRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-09-12,2021,9,positive
+Naresh Kumar,FOUR,,2021-09-13T12:55:51.937486Z,2021-09-13T12:55:51.937486Z,ChZDSUhNMG9nS0VJQ0FnSUM2NjVLek9BEAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,4,2021-09-13,2021,9,positive
+Sai prasad,FIVE,Nice,2021-09-17T11:09:44.619478Z,2021-09-17T11:09:44.619478Z,ChdDSUhNMG9nS0VJQ0FnSUQ2Z0xpejdRRRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-09-17,2021,9,positive
+rajesh soppuji,FIVE,,2021-09-20T03:42:19.902845Z,2021-09-20T03:42:19.902845Z,ChZDSUhNMG9nS0VJQ0FnSUQ2bUxfS1hBEAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-09-20,2021,9,positive
+Vislavath Rajesh,FIVE,,2021-09-23T10:52:00.554797Z,2021-09-23T10:52:00.554797Z,ChZDSUhNMG9nS0VJQ0FnSUQ2M09qR053EAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-09-23,2021,9,positive
+Ranga Nagachandra,THREE,,2021-09-24T15:57:23.456933Z,2021-09-24T15:57:23.456933Z,ChdDSUhNMG9nS0VJQ0FnSUQ2b3F1QTV3RRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,3,2021-09-24,2021,9,neutral
+satyanarayana nammula,FOUR,One Of the Good Banquet Hall,2021-10-06T06:34:15.887921Z,2021-10-06T06:34:15.887921Z,ChdDSUhNMG9nS0VJQ0FnSUQ2NWJmbWdBRRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,4,2021-10-06,2021,10,positive
+praveen sri,FIVE,,2021-10-06T17:09:18.000393Z,2021-10-06T17:09:18.000393Z,ChZDSUhNMG9nS0VJQ0FnSUQ2dFpDckpREAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-10-06,2021,10,positive
+ahmed sharif,TWO,,2021-10-08T19:25:33.459687Z,2021-10-08T19:25:33.459687Z,ChdDSUhNMG9nS0VJQ0FnSUQ2dmEyS3hRRRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,2,2021-10-08,2021,10,negative
+Kiran Kumar,FIVE,Best place to eat and affordable prices,2021-10-10T01:21:45.184001Z,2021-10-10T01:21:45.184001Z,ChZDSUhNMG9nS0VJQ0FnSUQ2NC1HNFdnEAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-10-10,2021,10,positive
+sumanth Reddy,FOUR,,2021-10-10T07:18:50.863614Z,2021-10-10T07:18:50.863614Z,ChdDSUhNMG9nS0VJQ0FnSUQ2azlMZzFnRRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,4,2021-10-10,2021,10,positive
+amrutha purushotham,FOUR,Good place,2021-10-16T09:48:44.663814Z,2021-10-16T09:48:44.663814Z,ChZDSUhNMG9nS0VJQ0FnSUQ2Xy1TR1NREAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,4,2021-10-16,2021,10,positive
+Koushik Ganji,FOUR,,2021-10-17T10:21:17.490705Z,2021-10-17T10:21:17.490705Z,ChdDSUhNMG9nS0VJQ0FnSUNHNEtiQy13RRAB,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,4,2021-10-17,2021,10,positive
+D Venkateshwarlu,FIVE,,2021-10-17T10:44:40.936994Z,2021-10-17T10:44:40.936994Z,ChZDSUhNMG9nS0VJQ0FnSUNHNE83Z0dnEAE,False,,,reviews-ABHRLXUvsbZI506hoW1qyU7ls_KRFa9o6KUGuU.json,5,2021-10-17,2021,10,positive
+Srinivas Sirikande,FIVE,,2021-10-17T14:33:30.152918Z,2021-10-17T14:33:30.152918Z,ChZDSUhNMG9nS0VJQ0FnSUNHa0x5MUhBEAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-10-17,2021,10,positive
+karunakar reddy,THREE,No parking,2021-10-18T16:25:42.470682Z,2021-10-18T17:37:45.163949Z,ChdDSUhNMG9nS0VJQ0FnSUNHaU5fYXBRRRAB,True,"Thank you for your feedback. We understand that parking can be a concern, and we appreciate your comment. We do have valet parking available for our guests, and in addition to that, there is street parking available nearby. We hope to have the opportunity to serve you again in the future.",2023-02-20T21:14:17.056107Z,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,3,2021-10-18,2021,10,neutral
+Kirankumar Nimmala,TWO,,2021-10-20T11:56:42.114224Z,2021-10-20T11:56:42.114224Z,ChdDSUhNMG9nS0VJQ0FnSUNHaEt1QjhRRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,2,2021-10-20,2021,10,negative
+manideep balerao 49,FIVE,,2021-10-21T06:46:18.405722Z,2021-10-21T06:46:18.405722Z,ChZDSUhNMG9nS0VJQ0FnSUNHbEp6UEdnEAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-10-21,2021,10,positive
+Srinivas Biragoni,FIVE,,2021-10-22T16:26:19.688736Z,2021-10-22T16:26:19.688736Z,ChdDSUhNMG9nS0VJQ0FnSUNHN0t5RHJBRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-10-22,2021,10,positive
+Naveen Kumar Macha,FIVE,Good place,2021-10-30T15:26:55.612961Z,2021-10-30T15:26:55.612961Z,ChdDSUhNMG9nS0VJQ0FnSUNHM3V1VTFnRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-10-30,2021,10,positive
+Kommi Nageshwar Rao,FIVE,,2021-11-04T14:55:28.301765Z,2021-11-04T14:55:28.301765Z,ChdDSUhNMG9nS0VJQ0FnSUNHNWRTdGlnRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-11-04,2021,11,positive
+ravinder vunyale,FIVE,"Hall was comfortable and pretty clean with ac in full swing. Staff cooperated well in every aspect from event to lunch. It is very much comfortable for 300 members with elevator, Generator.Awesome.",2021-11-04T15:55:22.168130Z,2021-11-04T15:55:22.168130Z,ChZDSUhNMG9nS0VJQ0FnSUNHNWVhYlZREAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-11-04,2021,11,positive
+Sharuskms Sharuskms,ONE,,2021-11-07T16:21:05.486473Z,2021-11-07T16:21:05.486473Z,ChZDSUhNMG9nS0VJQ0FnSUNHZy1LemNREAE,True,"Dear Sharuskms,
+
+Thank you for taking the time to leave a review about your experience at S V Banquet Halls. We regret to hear that you had a negative experience.
+
+We apologize for any inconvenience or dissatisfaction you may have encountered during your visit. We strive to provide exceptional service and ensure that our guests have a memorable experience. We take your feedback seriously and are committed to addressing any concerns you may have had.
+
+
+Thank you for bringing this matter to our attention, and we hope to have the opportunity to regain your trust in the future.
+
+Best regards,
+Owner
+S V Banquet Halls",2023-06-10T21:15:06.877537Z,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,1,2021-11-07,2021,11,negative
+Rajeev Tulasi,TWO,,2021-11-11T19:11:03.620835Z,2021-11-11T19:11:03.620835Z,ChZDSUhNMG9nS0VJQ0FnSUNHNTdta2NBEAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,2,2021-11-11,2021,11,negative
+shashidher mandula,FIVE,,2021-11-19T18:09:20.260414Z,2021-11-19T18:09:21.790422Z,ChdDSUhNMG9nS0VJQ0FnSURHdE9YSXhnRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-11-19,2021,11,positive
+Mukthapuram Balu Reddy,FIVE,,2021-11-20T10:20:52.557304Z,2021-11-20T10:20:52.557304Z,ChZDSUhNMG9nS0VJQ0FnSURHeklpdUR3EAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-11-20,2021,11,positive
+Sandeep Kumar,FIVE,Good place to have Birthday and kitty parties,2021-11-22T02:09:13.372093Z,2021-11-22T02:09:14.764263Z,ChZDSUhNMG9nS0VJQ0FnSURHX05ldEZBEAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-11-22,2021,11,positive
+AMBATi RAMESH,FIVE,Best service,2021-12-04T08:50:00.793655Z,2021-12-04T08:50:00.793655Z,ChdDSUhNMG9nS0VJQ0FnSURHcFliTDZnRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-12-04,2021,12,positive
+Dornala Venugopal,FIVE,,2021-12-05T10:11:57.753070Z,2021-12-05T10:11:57.753070Z,ChdDSUhNMG9nS0VJQ0FnSURHdGVHTHlBRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-12-05,2021,12,positive
+Na Ni,FIVE,,2021-12-05T10:43:17.616429Z,2021-12-05T10:43:17.616429Z,ChZDSUhNMG9nS0VJQ0FnSURHdGJtTFJREAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-12-05,2021,12,positive
+Chandra Shekar,FIVE,,2021-12-05T12:51:50.342424Z,2021-12-05T12:51:51.803219Z,ChZDSUhNMG9nS0VJQ0FnSURHOVlDdkVBEAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-12-05,2021,12,positive
+Boppadapu Sai Teja,FOUR,Cool view,2021-12-14T02:53:54.073078Z,2021-12-14T02:53:54.073078Z,ChZDSUhNMG9nS0VJQ0FnSURHMzhTVVRBEAE,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,4,2021-12-14,2021,12,positive
+Mali Ram Reddy,THREE,,2021-12-14T12:21:17.896935Z,2021-12-14T12:21:17.896935Z,ChdDSUhNMG9nS0VJQ0FnSURHdjUtcnRRRRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,3,2021-12-14,2021,12,neutral
+Jonnagaddala Srinivas,FIVE,,2021-12-19T10:40:52.673054Z,2021-12-19T10:40:53.799308Z,ChdDSUhNMG9nS0VJQ0FnSUNtbEpDbDV3RRAB,False,,,reviews-ABHRLXXJF-O_E9-jlQ6LQ_3GzumGKYWqVWsMZp.json,5,2021-12-19,2021,12,positive
+Aravind panjala,FOUR,,2021-12-23T18:14:36.251338Z,2021-12-23T18:14:36.251338Z,ChZDSUhNMG9nS0VJQ0FnSUNtc3FuZUl3EAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,4,2021-12-23,2021,12,positive
+Shavala Mounika,FIVE,Good,2021-12-28T03:51:46.142211Z,2021-12-28T03:51:46.142211Z,ChZDSUhNMG9nS0VJQ0FnSUNtdHJpbU53EAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2021-12-28,2021,12,positive
+Chandra shekhar,FOUR,One of the best Banquet Halls in this area,2021-12-29T03:15:35.163997Z,2021-12-29T03:15:35.163997Z,ChdDSUhNMG9nS0VJQ0FnSUNtcnNYRHdBRRAB,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,4,2021-12-29,2021,12,positive
+kumaraswamy Pochaveni,FIVE,"S V Banquet Hall Is Very Neat And Reasonable Rent
+Good Workers And Atmosphere Is Also Good 😍",2021-12-31T07:27:17.849067Z,2021-12-31T07:27:17.849067Z,ChdDSUhNMG9nS0VJQ0FnSUNtNFlQNnVBRRAB,True,"Thank you so much for taking the time to leave a review, we really appreciate it! We're glad to hear that you found our banquet hall to be neat, reasonably priced, and with a great atmosphere. We strive to provide the best service possible to all our customers, and we're thrilled to hear that we met your expectations. We hope to see you again soon at S V Banquet Hall!",2023-02-20T21:23:12.134952Z,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2021-12-31,2021,12,positive
+Anil kumar (Anil),FIVE,Nice,2022-01-02T01:31:29.387286Z,2022-01-02T01:31:29.387286Z,ChdDSUhNMG9nS0VJQ0FnSUNteWF2Rmp3RRAB,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-01-02,2022,1,positive
+praveen kumar Chiranji,ONE,,2022-01-03T10:42:32.150336Z,2022-01-03T10:42:32.150336Z,ChdDSUhNMG9nS0VJQ0FnSUNtdVpfcHlBRRAB,True,"Dear Praveen Kumar Chiranji,
+
+We apologize for any negative experience you may have had during your visit to S V Banquet Halls, which led you to give us a 1-star rating.
+
+While we understand that this review was from some time ago, we value your feedback and take it seriously. We strive to provide exceptional service and experiences for all our guests. If there is anything specific you would like to discuss or if there are any outstanding concerns you would like us to address, please feel free to reach out to our management team. We are committed to resolving any issues and ensuring our guests' satisfaction.
+
+We appreciate your feedback as it helps us improve our services and make necessary adjustments. We hope you will consider giving us another opportunity to provide you with a better experience in the future.
+
+Thank you for your understanding.
+
+Best regards,
+Owner
+S V Banquet Hall",2023-06-10T21:11:34.587208Z,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,1,2022-01-03,2022,1,negative
+Achyuth Sunkari,FIVE,Superb place for functions,2022-01-04T13:21:07.482972Z,2022-01-04T13:21:07.482972Z,ChZDSUhNMG9nS0VJQ0FnSUNtbGZpY1FBEAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-01-04,2022,1,positive
+SUDHEER DANAVATH,TWO,,2022-01-16T10:39:47.716071Z,2022-01-16T10:39:47.716071Z,ChZDSUhNMG9nS0VJQ0FnSURtMEpmUUF3EAE,True,"Dear Sudheer Danavath,
+
+We apologize for any inconvenience or dissatisfaction you may have experienced during your visit to S V Banquet Halls.
+
+We value your feedback, even if it is from some time ago, as it helps us improve our services and ensure a better experience for our guests. 
+
+If you are still willing to share additional details about your experience or if there is anything specific you would like us to address, please feel free to reach out to our management team. We are committed to addressing and resolving any past issues to ensure our guests' satisfaction.
+
+Thank you once again for your feedback, and we hope to have the opportunity to serve you better in the future.
+
+Best regards,
+Owner
+S V Banquet Halls",2023-06-10T21:09:29.886189Z,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,2,2022-01-16,2022,1,negative
+Nagaraju Modi,FIVE,,2022-02-16T17:25:23.200821Z,2022-02-16T17:25:23.200821Z,ChZDSUhNMG9nS0VJQ0FnSUNXcUozR0pnEAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-02-16,2022,2,positive
+dontuboiena vengalareddy,FIVE,Good,2022-02-20T04:05:37.300873Z,2022-02-20T04:05:37.300873Z,ChZDSUhNMG9nS0VJQ0FnSUNXck9uT0dBEAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-02-20,2022,2,positive
+Srikar tadakamalla,FIVE,,2022-02-20T14:05:42.296057Z,2022-02-20T14:05:43.992491Z,ChZDSUhNMG9nS0VJQ0FnSUNXbk56WUpREAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-02-20,2022,2,positive
+harish rk,THREE,,2022-02-20T17:39:43.550268Z,2022-02-20T17:39:43.550268Z,ChZDSUhNMG9nS0VJQ0FnSUNXM01DZVRREAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,3,2022-02-20,2022,2,neutral
+Ravi Kumar,FIVE,,2022-02-23T19:32:22.791058Z,2022-02-23T19:32:22.791058Z,ChZDSUhNMG9nS0VJQ0FnSUNXcXJmaWFnEAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-02-23,2022,2,positive
+Jonna Ravi,FIVE,Nice,2022-02-27T17:06:30.839124Z,2025-06-07T10:37:50.021084Z,ChdDSUhNMG9nS0VJQ0FnSUNXN3BpSXJBRRAB,True,"Dear Jonna Ravi,
+
+Thank you so much for your fantastic review and the ❤️! We're thrilled to hear that you found your experience with us superb.
+
+Your feedback means the world to us. We're grateful for your support and kind words. If there's anything more we can do to make your visits even more enjoyable, please let us know.
+
+We appreciate your patronage and hope to welcome you back soon for another great experience.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:14:16.706345Z,reviews.json,5,2022-02-27,2022,2,positive
+Kanneboina Parushuram,FIVE,,2022-04-08T15:39:01.242642Z,2022-04-08T15:39:01.242642Z,ChdDSUhNMG9nS0VJQ0FnSURXMzlmaDRBRRAB,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-04-08,2022,4,positive
+G. Abhi,ONE,Everything is good but please provide A/C,2022-04-21T13:04:26.873818Z,2022-04-21T13:04:26.873818Z,ChdDSUhNMG9nS0VJQ0FnSUMyN3Zmc2tnRRAB,True,"Thank you for your feedback regarding your experience at our hall. We are sorry to see that you had a negative experience and we appreciate your feedback. However, we wanted to clarify that our hall is equipped with AC and we apologize for any confusion or miscommunication that may have caused this misunderstanding.
+
+We strive to provide the best possible experience for our customers, and we take your feedback seriously. If you have any other feedback or concerns, please do not hesitate to reach out to us directly so we can work to resolve any issues you may have had.
+
+Thank you for your business and we hope to have the opportunity to serve you better in the future.",2023-02-20T20:43:01.876407Z,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,1,2022-04-21,2022,4,negative
+shashank punna,ONE,Worst hall. No ac. Lift off. Worst experience,2022-04-26T04:19:53.182368Z,2022-04-26T04:19:53.182368Z,ChZDSUhNMG9nS0VJQ0FnSUMybFluaGJBEAE,True,"Thank you for your feedback regarding your experience at our hall. We are sorry to hear that you had a bad experience and that your visit did not meet your expectations. However, we would like to clarify that our hall does have AC and lift, and we are sorry for any miscommunication or inconvenience that may have caused.
+
+We take our customer feedback seriously and would like to address any issues you may have encountered. Please reach out to us directly so that we can address any concerns you may have had and offer a resolution.
+
+We appreciate your business and value your feedback. We hope to have the opportunity to serve you better in the future and provide you with a better experience at our hall.",2023-02-20T20:41:47.907515Z,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,1,2022-04-26,2022,4,negative
+Anand Yerram,FIVE,Didn’t realize this place had such a huge space.,2022-05-02T09:23:36.678858Z,2022-05-02T09:23:36.678858Z,ChZDSUhNMG9nS0VJQ0FnSUMyM19pY2NBEAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-05-02,2022,5,positive
+Arun Kumar,FOUR,,2022-05-22T12:25:41.040590Z,2022-05-22T12:25:41.040590Z,ChZDSUhNMG9nS0VJQ0FnSUQybmNHS1hBEAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,4,2022-05-22,2022,5,positive
+Sode Veda,FOUR,,2022-05-29T03:30:55.338977Z,2022-05-29T03:31:03.105494Z,ChZDSUhNMG9nS0VJQ0FnSUQyNzhYcFF3EAE,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,4,2022-05-29,2022,5,positive
+NIMMALA RAVI,FIVE,Very nice,2022-06-05T17:08:11.249843Z,2022-06-05T17:08:48.983552Z,ChdDSUhNMG9nS0VJQ0FnSUNPNHU3Z3pnRRAB,False,,,reviews-ABHRLXX2XwMMqqTyi9ZVKScVBZATXzN1HZcAkE.json,5,2022-06-05,2022,6,positive
+Raghavendra Desharam,ONE,,2022-06-23T10:28:33.387059Z,2022-06-23T10:28:33.387059Z,ChZDSUhNMG9nS0VJQ0FnSUNPNy1MN1NnEAE,True,"Thank you for taking the time to rate our services. We're sorry to see that your experience did not meet your expectations. If you have any specific feedback or concerns, we would appreciate the opportunity to hear more about your experience so that we can better understand what went wrong and how we can improve our services.
+
+Please do not hesitate to reach out to us directly with any issues or concerns you may have had. We value your feedback and are committed to providing a high-quality experience for all of our customers.
+
+We hope to have the opportunity to serve you better in the future.
+
+",2023-02-20T20:39:58.376054Z,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,1,2022-06-23,2022,6,negative
+Zubair Ahmad,FIVE,,2022-07-12T16:40:11.905724Z,2022-07-12T16:40:11.905724Z,ChZDSUhNMG9nS0VJQ0FnSURPZzYtY1JREAE,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,5,2022-07-12,2022,7,positive
+Amzad Khan,FOUR,,2022-07-15T17:16:12.477834Z,2022-07-15T17:16:12.477834Z,ChdDSUhNMG9nS0VJQ0FnSURPeF9HZ2tRRRAB,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,4,2022-07-15,2022,7,positive
+Anil Ram,FIVE,,2022-07-17T16:04:38.252483Z,2022-07-17T16:04:38.252483Z,ChdDSUhNMG9nS0VJQ0FnSURPbjZEQWxRRRAB,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,5,2022-07-17,2022,7,positive
+Rajugoud 7893 Madhagoni,FOUR,,2022-07-23T05:49:48.894011Z,2022-07-23T05:49:48.894011Z,ChdDSUhNMG9nS0VJQ0FnSUN1bk1TcndRRRAB,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,4,2022-07-23,2022,7,positive
+naveen chowdary abburi,THREE,,2022-07-27T17:14:31.433633Z,2022-07-27T17:14:31.433633Z,ChZDSUhNMG9nS0VJQ0FnSUN1MXBDOEJ3EAE,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,3,2022-07-27,2022,7,neutral
+Parinayam Photography,THREE,Not bad,2022-07-28T09:49:36.260819Z,2022-07-28T09:49:36.260819Z,ChdDSUhNMG9nS0VJQ0FnSUN1anQ3LXR3RRAB,True,"Thank you for your feedback and for taking the time to rate our services. We're glad to hear that your experience was not bad, and we appreciate your patronage.
+
+If you have any specific feedback or suggestions for how we can improve our services and earn a higher rating from you, please don't hesitate to let us know. We value your feedback and are committed to providing a high-quality experience for all of our customers.
+
+We hope to have the opportunity to serve you again in the future and provide an even better experience. Thank you for your business!",2023-02-20T20:38:34.977320Z,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,3,2022-07-28,2022,7,neutral
+bro.shyam Sunder,FIVE,,2022-07-30T05:23:53.098581Z,2022-07-30T05:23:53.098581Z,ChdDSUhNMG9nS0VJQ0FnSUN1b1lManVRRRAB,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,5,2022-07-30,2022,7,positive
+Gajjela Swarani,TWO,,2022-08-08T10:57:55.004663Z,2022-08-08T10:57:55.004663Z,ChZDSUhNMG9nS0VJQ0FnSUN1bDRiTWJBEAE,True,"Thank you for taking the time to rate our services. We are sorry to see that your experience was not up to your expectations. If you have any specific feedback or concerns, we would love to hear more about your experience so that we can better understand how we can improve our services. Please do not hesitate to reach out to us and provide us with more information.
+
+We value your feedback and hope to have the opportunity to serve you better in the future.",2023-02-20T20:37:22.446861Z,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,2,2022-08-08,2022,8,negative
+shajeeh,THREE,"Good for small functions/parties
+Very less space for parking, vehicles are parked on road side",2022-08-08T12:26:58.317447Z,2022-08-08T12:26:58.317447Z,ChdDSUhNMG9nS0VJQ0FnSUN1bDlQc2hnRRAB,True,"Thank you for taking the time to share your feedback. We're glad to hear that you found our hall to be good for small functions and parties. We do understand that parking can be a challenge at times, particularly for larger events. While we do provide parking on-site, we also encourage guests to take advantage of the valet parking service we offer to help mitigate any parking issues. Additionally, we are actively exploring options to expand our parking space.
+
+We appreciate your feedback and will use it to continually improve the experience we offer our guests. Thank you for choosing our hall for your event, and we hope to have the opportunity to serve you again in the future.",2023-02-20T20:58:29.004904Z,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,3,2022-08-08,2022,8,neutral
+pagadala bharath,FIVE,,2022-08-21T13:22:28.774289Z,2022-08-21T13:22:28.774289Z,ChdDSUhNMG9nS0VJQ0FnSUR1bnJqV3N3RRAB,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,5,2022-08-21,2022,8,positive
+Suman Choudhary,TWO,Only fit for small functions,2022-08-23T05:22:54.037729Z,2022-08-23T05:22:54.037729Z,ChZDSUhNMG9nS0VJQ0FnSUR1MGU3OFRREAE,True,"Thank you for your feedback regarding our banquet hall. We're sorry to hear that your experience did not meet your expectations. While we take pride in our space and the services we provide, we understand that it may not be suitable for all types of events.
+
+We appreciate your feedback and will continue to look for ways to improve the experience for our guests. We would love to hear more about your specific concerns and how we can improve. Please feel free to reach out to us directly so that we can address any issues you may have encountered.
+
+We hope you will consider us for any future small functions and we look forward to the opportunity to provide you with a better experience.",2023-02-20T20:35:52.077549Z,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,2,2022-08-23,2022,8,negative
+Pixel Dreams jkart_studios,FOUR,,2022-08-28T12:36:55.427817Z,2022-08-28T12:36:55.427817Z,ChZDSUhNMG9nS0VJQ0FnSUR1NDhpMkVREAE,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,4,2022-08-28,2022,8,positive
+KiranKumar M,FIVE,,2022-08-31T10:22:39.655966Z,2022-08-31T10:22:39.655966Z,ChZDSUhNMG9nS0VJQ0FnSUR1cDd1blJ3EAE,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,5,2022-08-31,2022,8,positive
+kalyan raju,FOUR,Good for small gatherings,2022-09-08T04:25:56.744339Z,2022-09-08T04:25:56.744339Z,ChZDSUhNMG9nS0VJQ0FnSUNlclBHaE5nEAE,True,"Thank you for taking the time to provide feedback. We are happy to hear that you found our banquet hall suitable for your small gathering. If you have any suggestions on how we can improve your experience, please feel free to let us know. We look forward to hosting your next event.",2023-02-20T21:26:26.756176Z,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,4,2022-09-08,2022,9,positive
+gopi pullemula,THREE,,2022-09-12T03:13:58.470547Z,2022-09-12T03:13:58.470547Z,ChZDSUhNMG9nS0VJQ0FnSUNldXZUQVd3EAE,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,3,2022-09-12,2022,9,neutral
+A J,TWO,,2022-09-28T08:44:53.874586Z,2022-09-28T08:44:53.874586Z,ChdDSUhNMG9nS0VJQ0FnSUNldjUyNWt3RRAB,True,"Thank you for taking the time to rate our services. We're sorry to see that your experience was not up to your expectations. If you have any specific feedback or concerns, we would love to hear more about your experience so that we can better understand how we can improve our services. Please do not hesitate to reach out to us and provide us with more information.
+
+We value your feedback and hope to have the opportunity to serve you better in the future.",2023-02-20T20:34:24.272339Z,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,2,2022-09-28,2022,9,negative
+nagaraju cherupally,THREE,,2022-10-10T18:07:49.046953Z,2022-10-10T18:07:49.046953Z,ChdDSUhNMG9nS0VJQ0FnSURlcnRPcGlnRRAB,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,3,2022-10-10,2022,10,neutral
+Raju Lingampalli,FIVE,,2022-10-22T14:02:49.907921Z,2022-10-22T14:02:51.225314Z,ChZDSUhNMG9nS0VJQ0FnSURlajd1UVpBEAE,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,5,2022-10-22,2022,10,positive
+vt gummadavelli,FIVE,,2022-10-30T09:11:45.732865Z,2022-10-30T09:11:45.732865Z,ChdDSUhNMG9nS0VJQ0FnSUMtZ3IyYXpnRRAB,False,,,reviews-ABHRLXWSSezPmaSnA-YQbZsmTBpfybherZNZfq.json,5,2022-10-30,2022,10,positive
+vijayendar nukala,FIVE,,2022-10-31T15:27:10.265685Z,2022-10-31T15:27:10.265685Z,ChdDSUhNMG9nS0VJQ0FnSUMtOHVyem5RRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-10-31,2022,10,positive
+Narendra Nare,FIVE,,2022-11-04T01:55:02.228387Z,2022-11-04T01:55:08.561780Z,ChdDSUhNMG9nS0VJQ0FnSUMtanUzN29BRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-11-04,2022,11,positive
+Mahesh Goud,THREE,,2022-11-05T16:01:57.320009Z,2022-11-05T16:01:57.320009Z,ChdDSUhNMG9nS0VJQ0FnSUMtZ2JIeTZnRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,3,2022-11-05,2022,11,neutral
+sreedhar reddy marepally,ONE,No parking facility,2022-12-04T12:07:15.906402Z,2022-12-04T12:07:15.906402Z,ChdDSUhNMG9nS0VJQ0FnSUQtLWNyMThRRRAB,True,"Thank you for taking the time to leave a review of our banquet hall. We are sorry to hear that the parking situation did not meet your expectations. While we do offer valet parking for guests who have booked events with us, we understand that parking can still be a challenge at times. We apologize for any inconvenience this may have caused. We appreciate your feedback and will continue to look for ways to improve the parking experience for our guests. We hope you will give us another chance to provide you with a more enjoyable experience in the future.",2023-02-20T20:32:49.527562Z,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,1,2022-12-04,2022,12,negative
+CHANDURI Ramnath,FIVE,Very Good,2022-12-08T18:17:00.741093Z,2022-12-08T18:17:00.741093Z,ChdDSUhNMG9nS0VJQ0FnSUQtMF9Da3FnRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-12-08,2022,12,positive
+sa khader,FIVE,,2022-12-10T10:15:21.334759Z,2022-12-10T10:15:21.334759Z,ChdDSUhNMG9nS0VJQ0FnSUQtbTVmV3RnRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-12-10,2022,12,positive
+Vishwas Sai,THREE,,2022-12-11T17:30:10.485500Z,2022-12-11T17:30:10.485500Z,ChZDSUhNMG9nS0VJQ0FnSUQtbDRETWZ3EAE,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,3,2022-12-11,2022,12,neutral
+Bavesh Balerao,FIVE,,2022-12-17T17:14:07.832899Z,2022-12-17T17:14:07.832899Z,ChdDSUhNMG9nS0VJQ0FnSUNCcExQOHdBRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-12-17,2022,12,positive
+suneetha reddy G,ONE,,2022-12-18T18:17:42.104954Z,2022-12-18T18:17:42.104954Z,ChZDSUhNMG9nS0VJQ0FnSUNCOUtleEp3EAE,True,Thank you for taking the time to rate our banquet hall. We are sorry to hear that your experience did not meet your expectations. Could you please provide us with more details about your visit so we can better understand the issue and work to improve our services? We appreciate your feedback and hope to have the opportunity to serve you better in the future.,2023-02-20T20:30:25.599228Z,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,1,2022-12-18,2022,12,negative
+vishnu murthy,FIVE,Super excited about,2022-12-19T18:19:06.484403Z,2022-12-19T18:19:06.484403Z,ChZDSUhNMG9nS0VJQ0FnSUNCbkl2cVNBEAE,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-12-19,2022,12,positive
+shravan kumar,FOUR,,2022-12-19T19:36:04.476429Z,2022-12-19T19:36:04.476429Z,ChZDSUhNMG9nS0VJQ0FnSUNCM05pME1BEAE,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,4,2022-12-19,2022,12,positive
+Zyan Saify,THREE,,2022-12-22T14:18:29.931901Z,2022-12-22T14:18:29.931901Z,ChZDSUhNMG9nS0VJQ0FnSUNCNnBLX01REAE,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,3,2022-12-22,2022,12,neutral
+Rajasekhar V,FOUR,,2022-12-29T04:13:53.834241Z,2022-12-29T04:13:53.834241Z,ChZDSUhNMG9nS0VJQ0FnSUNCeVpIYlVnEAE,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,4,2022-12-29,2022,12,positive
+Ramavath Ganesh,FIVE,,2022-12-29T10:47:13.978420Z,2022-12-29T10:47:13.978420Z,ChdDSUhNMG9nS0VJQ0FnSUNCcVpQazVBRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-12-29,2022,12,positive
+Sai Kalyan,FIVE,,2022-12-31T10:54:25.908421Z,2022-12-31T10:54:25.908421Z,ChdDSUhNMG9nS0VJQ0FnSUNCMWN5ODNnRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2022-12-31,2022,12,positive
+Mahender Babu,FIVE,Good ambiance,2023-01-04T10:20:22.354608Z,2023-01-04T10:20:22.354608Z,ChZDSUhNMG9nS0VJQ0FnSUNCaTVXZmVnEAE,True,"Thank you, Mahender Babu, for your 5-star review! We're delighted to hear that you enjoyed the ambiance at S V Banquet Halls. We strive to create a welcoming and pleasant atmosphere for all our guests. Your feedback is greatly appreciated, and we look forward to serving you again in the future.
+
+Best regards,
+Owner
+S V Banquet Halls",2023-06-10T21:04:18.346229Z,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2023-01-04,2023,1,positive
+vicky vicky,FOUR,,2023-01-10T06:37:52.023371Z,2023-01-10T06:37:52.023371Z,ChdDSUhNMG9nS0VJQ0FnSURCaVBLcDZ3RRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,4,2023-01-10,2023,1,positive
+Raji Reddy,FIVE,,2023-01-14T14:40:19.706769Z,2023-01-14T14:40:46.965188Z,ChZDSUhNMG9nS0VJQ0FnSURCX0luck93EAE,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,5,2023-01-14,2023,1,positive
+pogaku neelima,FOUR,,2023-01-17T09:46:33.614712Z,2023-01-17T09:46:33.614712Z,ChdDSUhNMG9nS0VJQ0FnSURCMnNiUHdRRRAB,False,,,reviews-ABHRLXXGmZtJbNfgsFRSJyhhRRY4kalAkaP1y8.json,4,2023-01-17,2023,1,positive
+Naresh Kasturi,FOUR,,2023-01-26T08:09:43.621322Z,2023-01-26T08:09:43.621322Z,ChZDSUhNMG9nS0VJQ0FnSURCN2JIUVJ3EAE,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-01-26,2023,1,positive
+ritesh mudiraj,FOUR,,2023-02-12T16:57:55.039622Z,2023-02-12T16:57:55.039622Z,ChdDSUhNMG9nS0VJQ0FnSUNoOXREVnh3RRAB,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-02-12,2023,2,positive
+vallapudasu Venktesh,ONE,,2023-02-12T17:51:12.141902Z,2023-02-12T17:51:12.141902Z,ChdDSUhNMG9nS0VJQ0FnSUNoOXBLaHVBRRAB,True,Thank you for taking the time to rate our banquet hall. We are sorry to hear that your experience did not meet your expectations. Could you please provide us with more details about your visit so we can better understand the issue and work to improve our services? We appreciate your feedback and hope to have the opportunity to serve you better in the future.,2023-02-20T20:29:27.767954Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,1,2023-02-12,2023,2,negative
+Anjaneyulu Y,FOUR,,2023-02-23T23:24:32.785180Z,2023-02-24T02:03:50.517655Z,ChdDSUhNMG9nS0VJQ0FnSUNocDRQXy1RRRAB,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-02-23,2023,2,positive
+Thrinayana Ikkats pochampally,FIVE,,2023-03-12T16:25:07.079287Z,2023-03-12T16:25:07.079287Z,ChZDSUhNMG9nS0VJQ0FnSURoMmV6WGNBEAE,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,5,2023-03-12,2023,3,positive
+Akshay Reddy,FOUR,,2023-03-30T03:41:04.033045Z,2023-03-30T03:41:04.033045Z,ChZDSUhNMG9nS0VJQ0FnSUNScXF6cWVnEAE,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-03-30,2023,3,positive
+Karunakar Reddy Karna,FOUR,It was good,2023-04-02T16:30:06.446948Z,2023-04-02T16:30:06.446948Z,ChdDSUhNMG9nS0VJQ0FnSUNSbnA2bXBBRRAB,True,"Hello Karunakar Reddy Karna,
+
+Thank you for your review and feedback about S V Banquet Halls. We appreciate your positive rating and are delighted to hear that you had a good experience with us.
+
+At S V Banquet Halls, we are committed to providing exceptional service and creating memorable events for our guests. Your feedback motivates us to maintain our standards and continually improve our services.
+
+If you have any suggestions or additional feedback, please feel free to share them with us. We value your input and strive to exceed your expectations.
+
+Thank you once again for choosing S V Banquet Halls. We look forward to serving you again in the future.
+
+Best regards,
+Owner
+S V Banquet Halls
+
+
+
+
+
+
+",2023-06-10T21:03:13.236630Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-04-02,2023,4,positive
+Kotagiri Srinivas,FIVE,,2023-04-08T05:37:13.194232Z,2023-04-08T05:37:13.194232Z,ChdDSUhNMG9nS0VJQ0FnSUNScllQRWtBRRAB,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,5,2023-04-08,2023,4,positive
+naveen kumar,FIVE,,2023-04-08T15:41:23.223319Z,2023-04-08T15:41:23.223319Z,ChZDSUhNMG9nS0VJQ0FnSUNSM2ZUQkFREAE,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,5,2023-04-08,2023,4,positive
+Banavath Chandu,THREE,Ac also not working,2023-05-05T16:14:18.591096Z,2023-05-05T16:14:18.591096Z,ChdDSUhNMG9nS0VJQ0FnSURSNTZleHh3RRAB,True,"Hello Banavath Chandu,
+
+Thank you for your review and feedback. We apologize for the inconvenience you experienced with the AC not working. Our team is committed to providing a comfortable environment for all our customers, and we appreciate you bringing this issue to our attention.
+
+We would like to assure you that we take such matters seriously and have taken immediate action to rectify the AC problem. We apologize for any discomfort caused during your visit and assure you that we are committed to maintaining the highest standards of service and comfort.
+
+If there is anything else we can do to make your experience better, please do not hesitate to reach out to us. We value your feedback and strive to improve our services based on customer suggestions.
+
+Thank you again for your review, and we hope to have the opportunity to provide you with an even better experience in the future.
+
+Best regards,
+S V Banquet Halls",2023-06-10T21:01:13.658529Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,3,2023-05-05,2023,5,neutral
+Sudheer John,FIVE,,2023-05-05T16:45:30.692091Z,2023-05-05T16:45:30.692091Z,ChZDSUhNMG9nS0VJQ0FnSURSbC1pQ1hREAE,False,,,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,5,2023-05-05,2023,5,positive
+chandu ilen,FOUR,,2023-05-07T17:02:42.712203Z,2023-05-07T17:02:42.712203Z,ChdDSUhNMG9nS0VJQ0FnSURSXzhyTF9nRRAB,True,"Hello Chandu,
+
+Thank you for your 4-star rating! We appreciate your feedback and are glad to hear that you had a positive experience with us. We continuously strive to improve and provide the best possible service to our customers.
+
+If there's anything specific that we can do to earn that fifth star from you, please let us know. Your feedback is valuable to us as we work towards exceeding your expectations.
+
+Thank you again for your review, and we hope to have the opportunity to serve you even better in the future.
+
+Best regards,
+S V Banquet Halls",2023-06-10T20:59:38.907988Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-05-07,2023,5,positive
+K Venkateshwar Rao,FIVE,Excellent,2023-05-09T07:56:23.823912Z,2023-05-09T07:56:23.823912Z,ChdDSUhNMG9nS0VJQ0FnSUN4aU9UTTlnRRAB,True,"Hello K Venkateshwar Rao,
+
+Thank you for your excellent 5-star rating! We're delighted to hear that you had a fantastic experience with us. Your feedback is greatly appreciated, and it motivates us to continue delivering exceptional service.
+
+If you have any further comments or suggestions, please feel free to share them with us. We value your input and strive to provide the best possible experience for our customers.
+
+Thank you again for your positive review. We look forward to serving you again in the future.
+
+Best regards,
+S V Banquet Halls",2023-06-10T20:58:48.238049Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,5,2023-05-09,2023,5,positive
+sri kanth,FIVE,,2023-05-12T00:32:57.262305Z,2023-05-12T00:32:57.262305Z,ChZDSUhNMG9nS0VJQ0FnSUN4alA2NVhnEAE,True,"Hello Sri Kanth,
+
+Thank you for taking the time to leave us a 5-star review. We greatly appreciate your support and positive feedback. It's wonderful to know that you had a great experience with our business.
+
+If there's anything else we can assist you with or if you have any further feedback, please don't hesitate to reach out. We're here to ensure your satisfaction.
+
+Thank you once again for choosing our business. We look forward to serving you in the future.
+
+Best regards,
+S V Banquet Halls",2023-06-10T20:57:58.746415Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,5,2023-05-12,2023,5,positive
+Goranta SRINIVAS,FOUR,"(Translated by Google) nice
+
+(Original)
+బాగుంది",2023-05-12T09:40:45.191512Z,2023-05-12T09:40:45.191512Z,ChdDSUhNMG9nS0VJQ0FnSUN4ck9MUzRRRRAB,True,"Thank you, Mr. Goranta Srinivas,
+
+We appreciate the time you took to leave your review and provide us with your feedback. We are glad to hear that you had a good experience and found our maintenance to be satisfactory.
+
+If you have any questions, feedback, or suggestions regarding our business, please let us know. We are committed to continuously improving our services based on your valuable insights.
+
+We are dedicated to your satisfaction and look forward to serving you again.
+
+Thank you for choosing our business.
+
+Best regards,
+S V Banquet Halls",2023-06-10T20:57:09.037837Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-05-12,2023,5,positive
+نجلاء نجولي,FIVE,"(Translated by Google) I am not playing with it, I am not playing with it
+
+(Original)
+غاعفةهانفعفلعبثهفلعاثعلبنلىهاللتب",2023-05-16T00:40:33.543454Z,2023-05-16T00:40:33.543454Z,ChZDSUhNMG9nS0VJQ0FnSUN4LXNEdUl3EAE,True,Thank You Sir.,2023-06-10T20:54:39.646742Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,5,2023-05-16,2023,5,positive
+Srinu Bojjana,ONE,,2023-05-16T13:11:20.642570Z,2023-05-16T13:11:20.642570Z,ChZDSUhNMG9nS0VJQ0FnSUN4eHBXck5BEAE,True,"Dear Srinu Bojjana,
+
+Thank you for taking the time to share your feedback. We value all customer opinions, even when they may not be positive. We apologize for any inconvenience or disappointment you experienced during your visit.
+
+We would greatly appreciate the opportunity to understand your concerns in more detail. It would be helpful if you could provide us with specific details about the issues you encountered so that we can address them promptly. Your satisfaction is our top priority, and we are committed to ensuring a positive experience for all our customers.
+
+We encourage you to reach out  directly at svfunctionhalls@gmail or +91 6305 333 751 or visit our establishment, where our staff will be more than happy to assist you and address any concerns you may have. We strive to continuously improve our services and appreciate your valuable feedback.
+
+Thank you for bringing this matter to our attention, and we hope to have the opportunity to regain your trust and provide you with a better experience in the future.
+
+Best regards,
+S V Banquet Halls.",2023-06-10T20:50:40.800808Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,1,2023-05-16,2023,5,negative
+sunny raghava,THREE,,2023-05-16T17:15:03.140994Z,2023-05-16T17:15:03.140994Z,ChZDSUhNMG9nS0VJQ0FnSUN4NXRpZ1J3EAE,True,"Dear Sunny Raghava,
+
+Thank you for taking the time to leave a review and sharing your feedback with us. We appreciate your input and value your opinion.
+
+We're glad to hear that you had an overall positive experience with our business. We continuously strive to improve our services, and your feedback helps us in that endeavor.
+
+If there's anything specific you feel we could have done better, please feel free to let us know. We are always looking for ways to enhance our customer experience.
+
+Thank you for choosing our business, and we hope to have the opportunity to serve you again in the future.
+
+Best regards,
+S V Banquet Halls",2023-06-10T20:54:16.226465Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,3,2023-05-16,2023,5,neutral
+Ashish Kumar Tiwari,FOUR,,2023-05-21T17:05:06.858693Z,2023-05-21T17:05:06.858693Z,ChdDSUhNMG9nS0VJQ0FnSUN4LWNPRWtnRRAB,True,"Dear Ashish Kumar Tiwari,
+
+Thank you for taking the time to leave a 4-star review and sharing your experience with us. We appreciate your feedback and are glad to hear that you had a positive experience with our business.
+
+Your continued support and valuable feedback motivate us to keep delivering excellent services. If there's anything we can do to make your experience even better, please don't hesitate to reach out.
+
+Thank you once again for choosing our business and for being a valued customer. We look forward to serving you in the future.
+
+Best regards,
+S V Banquet Halls
+
+
+
+
+",2023-06-10T20:53:28.862890Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-05-21,2023,5,positive
+Raghavendra Aditya,FOUR,,2023-06-01T09:29:13.462468Z,2023-06-01T09:29:13.462468Z,ChdDSUhNMG9nS0VJQ0FnSUR4MkllcF93RRAB,True,"Dear Raghavendra Aditya,
+
+Thank you for sharing your feedback and giving us a 4-star rating. We appreciate your continued support and the time you've taken to review our business. Your feedback is valuable to us as we constantly strive to provide the best experience for our customers.
+
+If there's anything specific that we can do to further improve your experience or if you have any suggestions, please feel free to let us know. We value your input and are committed to enhancing our services based on customer feedback.
+
+Thank you again for choosing our business and for being a valued customer. We look forward to serving you in the future.
+
+Best regards,
+S V Banquet Halls",2023-06-10T20:52:37.932598Z,reviews-ABHRLXULaYAcbtvYnuu_YCBmkdcPJ2GEaaa2ry.json,4,2023-06-01,2023,6,positive
+Lakshmi Ramya,FOUR,,2023-06-07T11:10:28.565510Z,2023-06-07T11:10:28.565510Z,ChdDSUhNMG9nS0VJQ0FnSUR4NXA2TmtnRRAB,True,"
+Dear Lakshmi Ramya,
+
+Thank you for taking the time to share your feedback and for your 4-star rating. We appreciate your support and are glad to hear that you had a positive experience with us. We constantly strive to provide excellent service and meet the expectations of our valued customers like you.
+
+If there's anything specific that we can do to further improve your experience or if you have any suggestions, please feel free to reach out to us. We value your input and are always looking for ways to enhance our services.
+
+Thank you again for your review and for choosing our business. We look forward to serving you in the future.
+
+Best regards,
+S V Banquet Halls",2023-06-10T20:51:49.096480Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,4,2023-06-07,2023,6,positive
+shekar mylugani,FIVE,,2023-06-08T17:36:57.395410Z,2023-06-08T17:36:59.091148Z,ChdDSUhNMG9nS0VJQ0FnSUR4N3RmZl9BRRAB,True,"
+Thank you for your 5-star review, Shekar! We are thrilled to hear that you had a great experience with us. We strive to maintain a high level of service and cleanliness for our customers. Your satisfaction is our top priority, and we look forward to serving you again in the future.",2023-06-10T20:46:41.639347Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-06-08,2023,6,positive
+nikitha vilambi,FIVE,"Good one ,neat maintainence and in this summer AC is compulsory so,its so cool in the mid afternoon also .",2023-06-09T06:59:38.863841Z,2023-06-09T06:59:38.863841Z,ChdDSUhNMG9nS0VJQ0FnSUR4dnFfcXFBRRAB,True,"Thank you for your positive review, Nikitha! We're glad to hear that you had a good experience at our location. We strive to maintain cleanliness and ensure a comfortable environment for all our visitors. Our team works hard to keep the facility well-maintained and the air conditioning running, even during the hot summer days. We appreciate your feedback and hope to see you again soon.",2023-06-10T20:44:43.283691Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-06-09,2023,6,positive
+Vrinda Meela,THREE,The food didn't taste good,2023-06-11T10:53:55.452648Z,2023-06-11T10:53:55.452648Z,ChdDSUhNMG9nS0VJQ0FnSUR4bVo2ZjFBRRAB,True,"Vrinda Meela, thank you for sharing your feedback. We apologize that the food didn't taste good. We understand that you brought food from a vendor of your choice. We value your patronage and take your feedback seriously. We will look into the matter to ensure that we maintain the highest standards of quality for all our customers, including those who bring their own food. If there is anything specific you would like to share or discuss regarding your experience, please feel free to reach out to us over phone or email at svfunctionhalls@gmail.com. Your satisfaction is important to us, and we appreciate your feedback as we continually strive to improve. Thank you for your understanding, and we hope to have the opportunity to provide you with a better experience in the future.",2023-06-29T09:16:30.832237Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,3,2023-06-11,2023,6,neutral
+Kankiram Surender,FIVE,Sitara event,2023-06-14T12:47:24.068062Z,2023-06-14T12:47:41.850600Z,ChdDSUhNMG9nS0VJQ0FnSUR4MDdPSjVBRRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-06-14,2023,6,positive
+annandas vishal,FOUR,,2023-06-18T13:05:54.258952Z,2023-06-18T13:05:54.258952Z,ChdDSUhNMG9nS0VJQ0FnSUNKd01qeDF3RRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,4,2023-06-18,2023,6,positive
+nagender guptha,FIVE,Good service,2023-06-19T11:11:48.666848Z,2023-06-19T11:11:48.666848Z,ChdDSUhNMG9nS0VJQ0FnSUNKc0o2bGtnRRAB,True,"Dear Nagender Guptha,
+
+Thank you for your gracious 5-star review and kind remarks about our service. Your support is sincerely appreciated.
+
+We're delighted to hear you had a positive experience at S V Banquet Halls. Your feedback inspires us to maintain our commitment to excellent service.
+
+We're truly grateful for your patronage and hope to continue meeting your expectations in the future.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:24:17.234155Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-06-19,2023,6,positive
+Sheshank Togari,THREE,"Good for small parties.
+But non AC.",2023-06-21T15:18:58.155790Z,2023-06-21T15:18:58.155790Z,ChZDSUhNMG9nS0VJQ0FnSUNKMVBDWVFREAE,True,"Thank you for taking the time to share your feedback about our venue. We appreciate your input and would like to address your concern regarding the non-AC setup.
+
+We understand that the non-AC hall may not have met your expectations for a comfortable environment during your visit. We apologize for any inconvenience caused.
+
+However, we would like to inform you that we do have air-conditioned halls available within the same building. These AC halls are designed to cater to different preferences and requirements, offering a more comfortable experience for our guests. We apologize if this information was not communicated effectively during your visit.
+
+We value your feedback, and we'll take your comments into consideration to further improve our services and communication. We strive to provide the best possible experience for all our customers, and your feedback helps us in that process.
+
+If you have any further questions or concerns, please feel free to reach out to our management team directly. We would be more than happy to assist you and ensure that your future experiences with us meet your expectations.
+
+Once again, thank you for your feedback, and we hope to have the opportunity to serve you in our air-conditioned halls in the future.",2023-06-29T09:03:49.525867Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,3,2023-06-21,2023,6,neutral
+Akshay Gutta,FOUR,,2023-07-06T05:49:49.642292Z,2023-07-06T05:49:49.642292Z,ChZDSUhNMG9nS0VJQ0FnSUNKaC1lY0hnEAE,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,4,2023-07-06,2023,7,positive
+Priyanka R,FOUR,,2023-07-09T11:48:54.592112Z,2023-07-09T11:48:54.592112Z,ChdDSUhNMG9nS0VJQ0FnSURKc01hSm93RRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,4,2023-07-09,2023,7,positive
+prashanth B,FIVE,,2023-07-15T02:44:58.996685Z,2023-07-15T02:44:58.996685Z,ChZDSUhNMG9nS0VJQ0FnSURKNnZ2bkNREAE,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-07-15,2023,7,positive
+ramavath Suman,FIVE,,2023-07-17T05:45:39.169051Z,2023-07-17T05:45:39.169051Z,ChdDSUhNMG9nS0VJQ0FnSURKenJUN2lnRRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-07-17,2023,7,positive
+Jayasurya Yadav,THREE,"No place to park the vehicle, other wise it's good banquet hall",2023-07-18T13:14:23.560844Z,2023-07-18T13:14:23.560844Z,ChZDSUhNMG9nS0VJQ0FnSURKb1k3a0xBEAE,True,"Dear Jayasurya Yadav,
+
+Thank you for sharing your feedback and for considering us for your event. We're glad to hear that you found our banquet hall good.
+
+Regarding parking, we have limited basement parking available and ample street parking nearby. Additionally, upon guests' requests, we can arrange valet parking for convenience.
+
+We understand that parking can be a concern, and we're constantly exploring ways to enhance the parking experience for our guests.
+
+We value your patronage and hope that the next time you consider hosting an event, you'll reach out to us. We would be delighted to have the opportunity to make your experience even more enjoyable.
+
+Looking forward to the possibility of welcoming you again to our halls.
+
+Best regards,
+S V Banquet Halls",2023-12-22T19:57:33.093378Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,3,2023-07-18,2023,7,neutral
+Sai Krishna,FIVE,,2023-07-19T06:23:23.369107Z,2023-07-19T06:23:23.369107Z,ChdDSUhNMG9nS0VJQ0FnSURKOGJLeGtnRRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-07-19,2023,7,positive
+Sadhguru Nelapatla,FOUR,,2023-07-29T19:01:43.426280Z,2023-07-29T19:01:43.426280Z,ChdDSUhNMG9nS0VJQ0FnSUNwOUxIMWtRRRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,4,2023-07-29,2023,7,positive
+P S Yadav,FIVE,,2023-07-30T13:13:30.001605Z,2023-07-30T13:13:30.001605Z,ChdDSUhNMG9nS0VJQ0FnSUNwbk1Dc3hnRRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-07-30,2023,7,positive
+Vîvēk Śìńgh Thãkùr,FOUR,,2023-08-13T04:53:02.531328Z,2023-08-13T04:53:02.531328Z,ChdDSUhNMG9nS0VJQ0FnSUNwNzY2VDZ3RRAB,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,4,2023-08-13,2023,8,positive
+hari krishna,FOUR,This banquet hall is too small. Good part is Dining hall and function hall are in 2 different floors. Hall can accomodate 150 people without any problem.,2023-08-19T08:00:23.922897Z,2023-08-19T08:00:23.922897Z,ChZDSUhNMG9nS0VJQ0FnSURwMHJ1R2ZBEAE,True,"Dear Hari Krishna,
+
+Thank you for your review and for highlighting the features of our banquet hall, especially the separate dining and function areas across three floors. We're glad to hear that you appreciated the layout.
+
+We'd also like to mention that while our hall comfortably accommodates 150 guests, we have successfully hosted larger gatherings as well. Our team is skilled in optimizing space and ensuring all guests feel comfortable, regardless of the event size.
+
+We strive to make every occasion memorable and are always open to discussing specific arrangements to suit our guests' needs. Thank you for choosing S V Banquet Halls, and we look forward to hosting you again, whether for a cozy gathering or a grand celebration.
+
+Warm regards,
+S V Banquet Halls
+
+",2023-12-22T19:54:47.060877Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,4,2023-08-19,2023,8,positive
+Naveen Chiluveri,FIVE,,2023-08-19T17:03:46.281654Z,2023-08-19T17:03:46.281654Z,ChZDSUhNMG9nS0VJQ0FnSURwaXJmWUt3EAE,False,,,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,5,2023-08-19,2023,8,positive
+akshay chandra,THREE,,2023-08-19T17:13:09.877304Z,2023-08-19T17:13:09.877304Z,ChZDSUhNMG9nS0VJQ0FnSURwaXAtdE13EAE,True,"Dear Akshay Chandra,
+
+Thank you for sharing your rating with us. We appreciate your feedback.
+
+We're always looking for ways to enhance our services. If there were any specific aspects of your experience that we could improve upon or if you have any suggestions, we'd be grateful to hear from you. Your input helps us better cater to our guests' needs.
+
+Please feel free to reach out to us directly at svfunctionhalls@gmail.com if you would like to share more details about your visit. Your perspective is valuable to us as we strive to provide an exceptional experience for all our guests.
+
+We hope to have the opportunity to welcome you again and provide an even better experience.
+
+Best regards,
+S V Banquet Halls
+
+",2023-12-22T19:52:19.426184Z,reviews-ABHRLXUTFfs_2EvQQ_LA_pc1HOT_JwFhnOh4cL.json,3,2023-08-19,2023,8,neutral
+konatham gnaneshwar reddy,FIVE,,2023-08-20T10:11:19.454065Z,2023-08-20T10:11:19.454065Z,ChZDSUhNMG9nS0VJQ0FnSURwMnJpUWJREAE,True,"Dear Konatham Gnaneshwar Reddy,
+
+Thank you for your excellent 5-star rating! We truly appreciate your support.
+
+Your feedback means a lot to us. If there's anything more we can do to improve your experience or if you have any suggestions, please feel free to share.
+
+We're grateful for your patronage and hope to have the pleasure of welcoming you back soon for another fantastic experience.
+
+Best regards,
+S V Banquet Halls
+
+",2023-12-24T12:21:34.503580Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-08-20,2023,8,positive
+Mainampati Sunitha Reddy,FOUR,Nice,2023-08-23T14:35:18.380825Z,2023-08-23T14:35:18.380825Z,ChdDSUhNMG9nS0VJQ0FnSURwNGVteG9nRRAB,True,"Dear Mainampati Sunitha Reddy,
+
+Thank you for your fantastic 5-star rating and kind words! We're delighted that you found our S V Banquet Halls nice.
+
+Your feedback is highly appreciated. If there's anything more we can do to enhance your experience or if you have any suggestions, please feel free to share.
+
+We're grateful for your support and hope to have the pleasure of welcoming you back soon for another great experience.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:20:33.183758Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,4,2023-08-23,2023,8,positive
+SUDHA ENGINEERING AND INDUSTRIES,ONE,not good,2023-08-26T13:11:04.495582Z,2023-08-26T13:11:04.495582Z,ChZDSUhNMG9nS0VJQ0FnSURwOWVxWUFnEAE,True,"Dear SUDHA ENGINEERING AND INDUSTRIES,
+
+We truly appreciate your feedback, and we're sorry to learn that your experience didn't meet your expectations.
+
+Your insights are incredibly valuable to us as we continuously strive to enhance our services. Understanding the specifics of your experience would immensely assist us in addressing any shortcomings and improving our offerings.
+
+We genuinely care about your satisfaction and would be honored to have another opportunity to make things right. If you could provide more details about your visit or any areas you believe require improvement, we'll take immediate steps to rectify them.
+
+Please consider reaching out to us directly at svfunctionhalls@gmail.com. Your feedback is invaluable, and we would like to ensure a more positive experience for you in the future.
+
+We sincerely hope you'll reconsider and give us another chance to exceed your expectations. Your satisfaction is our priority, and we're committed to providing a memorable and enjoyable experience at our halls.
+
+Warm regards,
+S V Banquet Halls",2023-12-22T20:07:36.180650Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,1,2023-08-26,2023,8,negative
+Saritha kasula Creations,FIVE,"Easy to access, good for small functions",2023-09-03T15:18:09.765389Z,2023-09-05T03:31:37.289498Z,ChZDSUhNMG9nS0VJQ0FnSUNabU9iX0ZnEAE,True,"Dear Srinidhi Thambala Saritha Kasula Creations,
+
+Thank you for your wonderful 5-star review and the kind words! We're thrilled that you found S V Banquet Halls easy to access and suitable for small functions.
+
+Your feedback means a lot to us. We're delighted that you had a positive experience. If there's anything more we can do to make your visits even better or if you have any specific suggestions, please feel free to share.
+
+We appreciate your support and hope to have the pleasure of welcoming you back soon for more memorable moments.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:19:31.523772Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-09-03,2023,9,positive
+Ramesh Pasunuri,ONE,No maintenance.. lift not working,2023-09-12T12:47:24.270044Z,2023-09-12T12:47:24.270044Z,ChdDSUhNMG9nS0VJQ0FnSUNaMGZ5RzR3RRAB,True,"Dear Ramesh Pasunuri,
+
+Thank you for sharing your experience with us. We extend our sincere apologies for the inconvenience caused by the lift malfunction during your visit. Your feedback is instrumental in our quest to provide exceptional service.
+
+Please allow us the opportunity to make things right. We've taken immediate measures to address the lift issue and enhance our maintenance to ensure a seamless experience for all our guests in the future.
+
+We value your patronage and would be honored to have another chance to serve you better. Should you consider celebrating with us again, we'll ensure a hassle-free and delightful experience for you. Please reach out to us at svfunctionhalls@gmail.com, and we'll make every effort to make your next visit a memorable one.
+
+Warm regards,
+S V Banquet Halls",2023-12-22T20:05:07.033594Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,1,2023-09-12,2023,9,negative
+Vaishnavi Tiwari,FIVE,,2023-09-13T01:20:38.857491Z,2023-09-13T01:20:38.857491Z,ChdDSUhNMG9nS0VJQ0FnSUNaaVkyVnd3RRAB,True,"Dear Vaishnavi Tiwari,
+
+Thank you so much for your wonderful 5-star review! We truly appreciate your support and kind words.
+
+Your feedback is invaluable to us. We're delighted that you had a great experience at S V Banquet Halls. Should you have any further suggestions or if there's anything more we can do to make your visits even better, please feel free to let us know.
+
+We're grateful for your patronage and hope to have the pleasure of welcoming you back soon for another fantastic experience.
+
+Best regards,
+S V Banquet Halls",2023-12-24T12:16:48.558994Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-09-13,2023,9,positive
+Rao Pc,THREE,,2023-09-19T04:29:13.097470Z,2023-09-19T04:29:13.097470Z,ChZDSUhNMG9nS0VJQ0FnSUNadTlfQkF3EAE,True,"Dear Rao Pc,
+
+Thank you for taking the time to share your feedback. We greatly value all comments as they help us enhance our services. If there are specific areas where you feel we can improve, please do let us know at svfunctionhalls@gmail.com. Your input is valuable to us.
+
+Best regards,
+S V Banquet Halls
+",2023-12-22T19:46:01.002669Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,3,2023-09-19,2023,9,neutral
+Arun Ch,ONE,Worst maintenance in dining area bad smell is coming,2023-09-26T16:58:22.627237Z,2023-09-26T16:58:22.627237Z,ChZDSUhNMG9nS0VJQ0FnSURadkxxS2RBEAE,True,"Dear Arun Ch,
+
+We appreciate your feedback and thank you for taking the time to share your thoughts with us.
+
+Your rating indicates that we fell short of meeting your expectations, and for that, we apologize. Your satisfaction is essential to us, and we'd love the opportunity to make amends.
+
+We're committed to improving our services and ensuring a better experience for you in the future. If you'd be willing to provide more specific details about your visit or areas where we can enhance our services, we'd be grateful. Your insights will assist us in delivering a better experience for our guests.
+
+We sincerely hope you'll reconsider visiting us again. Please reach out to us at svfunctionhalls@gmail.com, and we'll make every effort to ensure a more enjoyable experience for you.
+
+Warm regards,
+S V Banquet Halls",2023-12-22T20:03:39.975229Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,1,2023-09-26,2023,9,negative
+sirikonda amani999,FIVE,Good,2023-09-29T17:17:41.006526Z,2023-09-29T17:17:51.834598Z,ChZDSUhNMG9nS0VJQ0FnSURaaHR1S0lREAE,True,"Dear Sirikonda Amani,
+
+Thank you for your wonderful 5-star review! We're thrilled to learn about your positive experience with us.
+
+Your feedback is greatly appreciated. We're delighted that you had a great time at  S V Banquet Halls. If there's anything more we can do to enhance your future visits, please feel free to share your thoughts with us.
+
+We're grateful for your support and hope to welcome you back soon for another fantastic experience.
+
+Best regards,
+S V Banquet Halls",2023-12-24T12:15:37.212064Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-09-29,2023,9,positive
+Meddi Ramu,THREE,,2023-10-11T16:49:52.806241Z,2023-10-11T16:49:52.806241Z,ChZDSUhNMG9nS0VJQ0FnSUM1ck11WFR3EAE,True,"Dear Meddi Ramu,
+
+Thank you for taking the time to share your feedback. We greatly value all comments as they help us enhance our services. If there are specific areas where you feel we can improve, please do let us know at svfunctionhalls@gmail.com. Your input is valuable to us.
+
+Best regards,
+S V Banquet Halls",2023-12-22T19:44:34.459442Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,3,2023-10-11,2023,10,neutral
+Abhilash Yadav,THREE,,2023-10-27T08:32:55.986398Z,2023-10-27T08:32:57.288614Z,ChZDSUhNMG9nS0VJQ0FnSUQ1LTRIZGZREAE,True,"Dear Abhilash Yadav,
+
+Thank you for taking the time to share your feedback. We greatly value all comments as they help us enhance our services. If there are specific areas where you feel we can improve, please do let us know at svfunctionhalls@gmail.com. Your input is valuable to us.
+
+Best regards,
+S V Banquet Halls",2023-12-22T19:44:22.640489Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,3,2023-10-27,2023,10,neutral
+Dr T.Soloman Raju,FIVE,Very nice,2023-11-03T05:53:04.287927Z,2023-11-03T05:53:04.287927Z,ChZDSUhNMG9nS0VJQ0FnSUNGdV91R2NREAE,True,"Dear Dr. T. Soloman Raju,
+
+Thank you for your wonderful review! We're thrilled to hear that you found our S V Banquet Halls to be very nice.
+
+Your feedback is incredibly valuable to us. We greatly appreciate your support and kind words. If there's anything specific that stood out or any suggestions you have for us to make your experience even better, please feel free to share.
+
+We're grateful for the opportunity to have served you and hope to welcome you back soon for another great experience.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:12:29.205986Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-11-03,2023,11,positive
+sistla raviteja,FOUR,Nice place to perform functions,2023-11-04T03:54:56.342868Z,2023-11-04T03:54:56.342868Z,ChZDSUhNMG9nS0VJQ0FnSURGc0kyZWVREAE,True,"Dear Sistla Raviteja,
+
+Thank you for selecting our venue for your functions. We're thrilled that you found it to be a nice place for your events. Your feedback means a lot to us at S V Banquet Halls.
+
+Your support and valuable comments are greatly appreciated. If there are any areas where we can further improve to enhance your experience, we'd love to hear your thoughts. Your satisfaction is essential to us.
+
+We're grateful for the opportunity to have been a part of your special occasions and eagerly await the chance to welcome you back for more memorable events.
+
+Best regards,
+S V Banquet Halls
+
+",2023-12-24T12:11:13.460156Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,4,2023-11-04,2023,11,positive
+Venu smarT Art creations,ONE,,2023-11-06T19:48:49.555762Z,2023-11-06T19:48:49.555762Z,ChZDSUhNMG9nS0VJQ0FnSURGcHRxN0ZBEAE,True,"Dear Venu SmarT Art Creations,
+
+Thank you for taking the time to rate us. Your feedback is incredibly valuable.
+
+We noticed your rating, and we're sorry that your experience didn't meet your expectations. Your satisfaction is our priority, and we would love the chance to make it right.
+
+We invite you to share more details about your visit or any areas where we can improve. Your insights will assist us in ensuring a better experience for you in the future.
+
+We value your patronage and sincerely hope you'll reconsider visiting us again. Please reach out to us at svfunctionhalls@gmail.com so that we can work towards providing a more enjoyable experience for you next time.
+
+Best regards,
+S V Banquet Halls",2023-12-22T20:01:57.045456Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,1,2023-11-06,2023,11,negative
+Sirisha Reddy,FIVE,Good,2023-11-07T13:21:05.375195Z,2023-11-07T13:21:18.303600Z,ChZDSUhNMG9nS0VJQ0FnSURGM3R2TVl3EAE,True,"Dear Sirisha Reddy,
+
+Thank you for taking the time to give S V Banquet Halls a perfect 5-star rating! We're delighted that you had a fantastic experience with us.
+
+Your support and kind words mean a lot to us at S V Banquet Halls. Should you have any further feedback or if there's anything more we can do to make your next visit even better, please feel free to reach out.
+
+We're excited about the opportunity to serve you again and provide another exceptional experience at S V Banquet Halls.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:09:06.937074Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-11-07,2023,11,positive
+Kalki Rockzz,ONE,,2023-11-08T23:24:17.957538Z,2023-11-08T23:24:17.957538Z,ChZDSUhNMG9nS0VJQ0FnSURGMWN2ZVhBEAE,True,"Dear Kalki Rockzz,
+
+Thank you for choosing S V Banquet Halls. We're dedicated to providing exceptional experiences for all our guests.
+
+We noticed your recent rating, and we regret that your experience did not meet your expectations. Your feedback is crucial to us. If there are specific areas where you feel we can improve or if there were any concerns during your visit, we would greatly appreciate hearing from you.
+
+We are committed to addressing any issues and ensuring a more enjoyable experience for your next visit. We value your patronage and sincerely hope to have the opportunity to welcome you back.
+
+Please feel free to reach out to us at svfunctionhalls@gmail.com so we can understand your concerns better and ensure a better experience for you next time.
+
+Warm regards,
+S V Banquet Halls",2023-12-22T19:59:57.746479Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,1,2023-11-08,2023,11,negative
+MALOTH VENKATESH,FIVE,,2023-11-15T09:40:32.892550Z,2023-11-15T09:40:32.892550Z,ChZDSUhNMG9nS0VJQ0FnSUNsc3VqRFB3EAE,True,"Dear MALOTH VENKATESH,
+
+Thank you for your fantastic 5-star rating! We're thrilled that you had a great experience with us at S V Banquet Halls.
+
+Your support and feedback mean a lot to us. If you have any further comments or if there's anything more we can do to enhance your future visits, please feel free to let us know.
+
+We're looking forward to serving you again and providing another wonderful experience at S V Banquet Halls.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:07:40.903095Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-11-15,2023,11,positive
+BUDIDHA SRIKANTH,FOUR,,2023-11-24T06:09:27.541415Z,2023-11-24T06:09:27.541415Z,ChdDSUhNMG9nS0VJQ0FnSUNsellqUTR3RRAB,True,"Dear Budidha Ravan,
+
+Thanks for giving us a 4-star rating! We're happy you liked your time at S V Banquet Halls. Your suggestions can help us make things even better. We'd love to see you again and make your next visit awesome.
+
+Best wishes,
+S V Banquet Halls",2023-12-24T12:06:10.085393Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,4,2023-11-24,2023,11,positive
+PRABHAS KALYAN CHINNA,FIVE,,2023-11-27T05:53:02.578006Z,2023-11-27T05:53:02.578006Z,ChdDSUhNMG9nS0VJQ0FnSUNseTducXVnRRAB,True,"Dear PRABHAS KALYAN CHINNA,
+
+Thank you for sharing your fantastic 5-star review! Your support and kind words mean a lot to us at S V Banquet Halls.
+
+We're delighted that you had an excellent experience with us. Your feedback motivates us to continue providing exceptional service to all our guests.
+
+Should you have any further comments or if there's anything else we can assist you with, please feel free to reach out. We look forward to welcoming you back to S V Banquet Halls for more wonderful moments.
+
+Best regards,
+S V Banquet Halls",2023-12-24T12:03:31.154329Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-11-27,2023,11,positive
+Sonu Rajput,FIVE,,2023-11-29T17:52:56.091369Z,2023-11-29T17:52:56.091369Z,ChdDSUhNMG9nS0VJQ0FnSURsa0lhYjhBRRAB,True,"Dear Sonu Rajput,
+
+Thank you so much for taking the time to leave us a 5-star review! At S V Banquet Halls, we greatly appreciate your kind words and support.
+
+Your satisfaction is our priority, and we're thrilled that you had a fantastic experience with us. Your feedback means a lot, and we're delighted to have met your expectations.
+
+Should you need any further assistance or have more feedback to share, please don't hesitate to reach out. We look forward to serving you again at S V Banquet Halls and providing another excellent experience.
+
+Warm regards,
+S V Banquet Halls",2023-12-24T12:02:29.799369Z,reviews-ABHRLXWAq3tEzEkFxvLTf-BeY57KNRIfu_8ssB.json,5,2023-11-29,2023,11,positive
+Praveenkumar Kondur,THREE,,2023-12-08T07:52:31.079053Z,2023-12-08T07:52:31.079053Z,ChZDSUhNMG9nS0VJQ0FnSUNWdWJfX0lnEAE,True,"Dear Praveenkumar Kondur,
+
+Thank you for taking the time to leave a rating! We greatly appreciate your feedback. If there's anything specific you'd like to share or if there are ways we can further improve your experience, please feel free to let us know at svfunctionhalls@gmail.com. Your input is valuable to us.
+
+Best regards,
+S V Banquet Halls",2023-12-22T19:39:55.713860Z,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,3,2023-12-08,2023,12,neutral
+sarode Shravan kumar,THREE,,2023-12-11T13:49:10.182558Z,2023-12-11T13:49:10.182558Z,ChZDSUhNMG9nS0VJQ0FnSURWN0tfYWJREAE,True,"Dear Sarode Shravan Kumar,
+
+Thank you for taking the time to leave a rating! We greatly appreciate your feedback. If there's anything specific you'd like to share or if there are ways we can further improve your experience, please feel free to let us know at svfunctionhalls@gmail.com. Your input is valuable to us.
+
+Best regards,
+S V Banquet Halls",2023-12-22T19:39:12.422848Z,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,3,2023-12-11,2023,12,neutral
+Kaavati. L.S,FIVE,,2023-12-14T14:57:10.314646Z,2023-12-14T14:57:10.314646Z,ChZDSUhNMG9nS0VJQ0FnSURWMWZmc09BEAE,True,"Dear Kaavati. L.S,
+
+Thank you so much for your 5-star review! We truly appreciate your support and are thrilled to hear about your positive experience with us.
+
+Your feedback means a lot to us, and we're delighted that you enjoyed your time with us. Should you need anything or have further feedback to share, please feel free to reach out.
+
+We look forward to welcoming you again and providing another fantastic experience at  S V Banquet Halls.
+
+Best regards,
+S V Banquet Halls
+",2023-12-24T12:00:37.080422Z,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2023-12-14,2023,12,positive
+Alwal Reddy,FOUR,,2024-01-02T09:10:01.133548Z,2024-01-02T09:10:01.133548Z,ChdDSUhNMG9nS0VJQ0FnSUMxemZiM3BBRRAB,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,4,2024-01-02,2024,1,positive
+SANJEEV BOBBILI,FIVE,,2024-01-02T20:40:15.843917Z,2024-01-02T20:40:15.843917Z,ChZDSUhNMG9nS0VJQ0FnSUMxdzhLQUpREAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-01-02,2024,1,positive
+Utkarsh Prakash,THREE,,2024-01-17T06:11:48.522971Z,2024-01-17T06:11:48.522971Z,ChZDSUhNMG9nS0VJQ0FnSUNOX1o2WlJREAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,3,2024-01-17,2024,1,neutral
+Abhilash Dhundra,FIVE,Nice place,2024-02-10T14:43:27.011093Z,2024-02-10T14:43:27.011093Z,ChZDSUhNMG9nS0VJQ0FnSUNkaUliZElREAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-02-10,2024,2,positive
+J venumadhav,FIVE,Good,2024-02-16T00:12:32.878263Z,2024-02-16T00:12:32.878263Z,ChZDSUhNMG9nS0VJQ0FnSUNkMGRINkZBEAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-02-16,2024,2,positive
+Allampati Sivasaikumar,FIVE,Great place,2024-02-18T09:25:20.641678Z,2024-02-18T09:25:20.641678Z,ChZDSUhNMG9nS0VJQ0FnSUNkeS11N1ZnEAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-02-18,2024,2,positive
+sudheer Kumar,FIVE,,2024-02-19T08:48:24.118729Z,2024-02-19T08:48:24.118729Z,ChZDSUhNMG9nS0VJQ0FnSUNkOS1EcGNREAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-02-19,2024,2,positive
+Vishal Siddamshetty,ONE,,2024-02-24T17:33:06.696626Z,2024-02-24T17:33:06.696626Z,ChdDSUhNMG9nS0VJQ0FnSURkOGQyQTZBRRAB,True,"Dear Vishal,
+Thank you for taking the time to rate our banquet halls. We value all feedback, positive or otherwise, as it helps us identify areas for improvement and enhance our services.
+
+We noticed that you've rated us , but unfortunately, there aren't any specific comments provided to help us understand your experience better. We're committed to providing exceptional service to all our guests, and we'd appreciate any additional feedback you can provide to help us address any concerns you may have had.
+
+Please feel free to reach out to us directly if you'd like to discuss your experience in more detail or if there's anything we can do to make your next visit more enjoyable. Your satisfaction is our top priority, and we're here to ensure that you have a positive experience with us.
+
+Thank you once again for your rating, and we hope to have the opportunity to welcome you back soon.
+
+Best regards,
+Owner
+S V Banquet Halls",2024-03-03T11:34:43.097121Z,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,1,2024-02-24,2024,2,negative
+chandra shekar,THREE,"Small one no proper parking space.
+
+Useful for birthday parties not for bigger gathering",2024-03-03T05:00:28.865780Z,2024-03-03T05:00:28.865780Z,ChdDSUhNMG9nS0VJQ0FnSUM5dFB1NXBRRRAB,True,"Dear Chandra Shekar,
+
+Thank you for sharing your feedback with us. We appreciate your insights and would like to address your concerns regarding parking space and event capacity.
+
+We understand the importance of accommodating larger gatherings and providing adequate parking facilities for our guests. While our venue may be smaller in size, we do offer options for hosting events with a larger audience. We have arrangements for valet parking services to ensure convenience for our guests. However, we apologize if there was any confusion regarding the availability of valet parking.
+
+To better assist our guests hosting events with larger audiences, we encourage advance planning and coordination to ensure that all necessary arrangements, including valet parking, are in place. Our team is committed to providing exceptional service and ensuring a memorable experience for all our guests.
+
+We appreciate your feedback as it helps us continually improve our services and offerings. If you have any further questions or would like to discuss your event requirements in more detail, please feel free to contact us directly.
+
+We look forward to welcoming you back to S V Banquet Halls and exceeding your expectations in the future.
+
+Warm regards,
+Owner
+S V Banquet Halls",2024-03-03T11:29:50.349176Z,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,3,2024-03-03,2024,3,neutral
+Ashokgoud Bandi,FOUR,,2024-03-16T09:46:22.206638Z,2024-03-16T09:46:22.206638Z,ChdDSUhNMG9nS0VJQ0FnSUQ5bHRIWjBRRRAB,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,4,2024-03-16,2024,3,positive
+Naveen Kumar,THREE,Average... Food quality is not Good,2024-03-18T09:09:03.548866Z,2024-03-18T09:09:03.548866Z,ChdDSUhNMG9nS0VJQ0FnSUQ5eWEzQTh3RRAB,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,3,2024-03-18,2024,3,neutral
+Ramya Marthad,FIVE,Nice,2024-03-20T05:26:50.687398Z,2024-03-20T05:26:50.687398Z,ChdDSUhNMG9nS0VJQ0FnSUQ5M2Q3Q3dnRRAB,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-03-20,2024,3,positive
+vuppu srinivas,FIVE,Very good function hall,2024-03-28T01:29:38.549241Z,2024-03-28T01:29:38.549241Z,ChdDSUhNMG9nS0VJQ0FnSUNEMXZYX3F3RRAB,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-03-28,2024,3,positive
+Lingaswamy Kambhampati,FIVE,,2024-04-08T12:31:36.837256Z,2024-04-08T12:31:36.837256Z,ChZDSUhNMG9nS0VJQ0FnSURELXRqRFJnEAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-04-08,2024,4,positive
+Chandu bukka,FIVE,Cool,2024-04-18T15:56:52.990773Z,2024-04-18T15:56:52.990773Z,ChZDSUhNMG9nS0VJQ0FnSUNqckptX1ZnEAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-04-18,2024,4,positive
+Ravi Kumar,THREE,,2024-04-25T16:33:38.036618Z,2024-04-25T16:33:38.036618Z,ChZDSUhNMG9nS0VJQ0FnSUNqODRudEh3EAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,3,2024-04-25,2024,4,neutral
+ramesh aitharaj,FIVE,,2024-04-30T16:20:02.968614Z,2024-04-30T16:20:02.968614Z,ChZDSUhNMG9nS0VJQ0FnSURqdk5DVU1REAE,False,,,reviews-ABHRLXUA61tumr4H3GIAO6OXu2QGarHOat0rvL.json,5,2024-04-30,2024,4,positive
+medasani saicharan,FIVE,,2024-05-01T15:15:14.034377Z,2024-05-01T15:15:14.034377Z,ChZDSUhNMG9nS0VJQ0FnSURqaXRYelZnEAE,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-05-01,2024,5,positive
+Pv Narsimharao,FIVE,Good,2024-05-03T04:54:19.925902Z,2024-05-03T04:54:19.925902Z,ChdDSUhNMG9nS0VJQ0FnSURqanZEejl3RRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-05-03,2024,5,positive
+Shashider Reddy,FIVE,,2024-05-07T16:11:39.755602Z,2024-05-07T16:11:39.755602Z,ChdDSUhNMG9nS0VJQ0FnSURqcTRiRHlnRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-05-07,2024,5,positive
+Raj Kumar,FIVE,Excellent 👌,2024-05-16T03:25:34.231728Z,2024-05-16T03:25:34.231728Z,ChZDSUhNMG9nS0VJQ0FnSUNUc2ZiaFRnEAE,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-05-16,2024,5,positive
+karunakar karna,FIVE,Very very good,2024-05-21T17:52:55.010872Z,2024-05-21T17:52:55.010872Z,ChdDSUhNMG9nS0VJQ0FnSURUOE5DU3hBRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-05-21,2024,5,positive
+Pravin paruchuri,FOUR,,2024-05-22T15:07:26.747145Z,2024-05-22T15:07:26.747145Z,ChdDSUhNMG9nS0VJQ0FnSURUeEphTDV3RRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,4,2024-05-22,2024,5,positive
+Sravan U,FIVE,,2024-05-29T18:48:36.619346Z,2024-05-29T18:48:36.619346Z,ChdDSUhNMG9nS0VJQ0FnSUN6d0luSnlBRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-05-29,2024,5,positive
+Das Das,FIVE,,2024-05-30T01:53:21.114483Z,2024-05-30T01:53:22.365498Z,ChdDSUhNMG9nS0VJQ0FnSUN6a1BfOHdBRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-05-30,2024,5,positive
+Sudini Bhoopal Reddy,FIVE,,2024-06-01T07:42:31.589555Z,2024-06-01T07:42:31.589555Z,ChdDSUhNMG9nS0VJQ0FnSUN6cXNUejRBRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-06-01,2024,6,positive
+अतुल पंडित,FOUR,Good,2024-06-05T01:10:54.134412Z,2024-06-05T01:10:54.134412Z,ChdDSUhNMG9nS0VJQ0FnSUN6ODltRnpBRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,4,2024-06-05,2024,6,positive
+Vurimalla Brahmachary,FIVE,,2024-06-09T07:59:40.367040Z,2024-06-09T07:59:40.367040Z,ChdDSUhNMG9nS0VJQ0FnSUR6NnF6VzlnRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-06-09,2024,6,positive
+Mancop Remedies,FIVE,,2024-06-24T11:41:15.233730Z,2024-06-24T11:41:15.233730Z,ChdDSUhNMG9nS0VJQ0FnSUNMXzg2ZGtRRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-06-24,2024,6,positive
+Raghava,FIVE,"(Translated by Google) Jai Sriman Narayana 🙏🙏
+
+(Original)
+Jai sriman Narayana 🙏🙏",2024-06-28T10:18:13.525963Z,2024-06-28T10:18:13.525963Z,ChdDSUhNMG9nS0VJQ0FnSURMNGQ3VWlRRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-06-28,2024,6,positive
+Donthula Raghavendra,FIVE,,2024-07-03T23:14:27.861486Z,2024-07-03T23:14:27.861486Z,ChZDSUhNMG9nS0VJQ0FnSUNyMkwyTUl3EAE,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-07-03,2024,7,positive
+Rajendra Prasad,FIVE,,2024-07-09T01:01:08.852435Z,2024-07-09T01:01:08.852435Z,ChdDSUhNMG9nS0VJQ0FnSUNybWVtZzNnRRAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,5,2024-07-09,2024,7,positive
+Shamala Jyothsna,FOUR,,2024-07-15T01:29:26.054445Z,2024-07-15T01:29:26.054445Z,ChZDSUhNMG9nS0VJQ0FnSURyeEptQUF3EAE,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,4,2024-07-15,2024,7,positive
+Lakshmi Srividya,THREE,"Good banquets
+Easily spottable and near to main road",2024-07-19T16:02:34.150553Z,2024-12-12T15:49:59.609553Z,ChZDSUhNMG9nS0VJQ0FnSURyZzVuaUp3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,3,2024-07-19,2024,7,neutral
+Thamashala Little Angels (Kiren Kumar),FOUR,,2024-08-11T10:48:14.740526Z,2024-08-11T10:48:14.740526Z,ChRDSUhNMG9nS0VJQ0FnSUM3b0lGZxAB,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,4,2024-08-11,2024,8,positive
+Sadik Rehaman SK (Babu),FOUR,,2024-08-15T04:26:34.620730Z,2024-08-15T04:26:34.620730Z,ChZDSUhNMG9nS0VJQ0FnSUM3dXRqQlBBEAE,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,4,2024-08-15,2024,8,positive
+Gunti Suresh Kumar,THREE,,2024-08-22T15:50:47.713480Z,2024-08-22T15:50:47.713480Z,ChZDSUhNMG9nS0VJQ0FnSUQ3Z3ZmRGJREAE,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,3,2024-08-22,2024,8,neutral
+Subrahmanyam Immaneni,FOUR,"Good one for birthday parties and small occasions, don't have enough car parking except that everything is fine with good dining space.",2024-09-25T14:04:04.196283Z,2024-09-25T14:04:04.196283Z,ChZDSUhNMG9nS0VJQ0FnSUNucHJ6dUN3EAE,False,,,reviews-ABHRLXWC_XVvkUy4qm-TYXRIN1_cQJ6LUomjnb.json,4,2024-09-25,2024,9,positive
+Ch Srikanth,FOUR,,2024-09-25T18:24:52.999268Z,2024-09-25T18:24:52.999268Z,ChZDSUhNMG9nS0VJQ0FnSUNuMXFDeFJBEAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,4,2024-09-25,2024,9,positive
+SOPPARI RAMESH,FIVE,,2024-10-30T03:11:54.476382Z,2024-10-30T03:11:54.476382Z,ChZDSUhNMG9nS0VJQ0FnSURYemFMSUN3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2024-10-30,2024,10,positive
+chandra shekar,FIVE,Good banquet hall,2024-10-30T10:28:56.444414Z,2024-10-30T10:28:56.444414Z,ChZDSUhNMG9nS0VJQ0FnSURYM1otZmV3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2024-10-30,2024,10,positive
+coordination Rajnews,FIVE,Good,2024-11-17T02:41:19.672022Z,2024-11-17T02:41:19.672022Z,ChZDSUhNMG9nS0VJQ0FnSUQzNWJpRGRnEAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2024-11-17,2024,11,positive
+Varaprasad Punna Photography,FOUR,,2024-11-22T15:58:09.102905Z,2024-11-22T15:58:09.102905Z,ChdDSUhNMG9nS0VJQ0FnSUNQd3U2cHhRRRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,4,2024-11-22,2024,11,positive
+Shankarreddy ailuri,FOUR,,2024-11-23T17:52:22.873285Z,2024-11-23T17:52:22.873285Z,ChdDSUhNMG9nS0VJQ0FnSUNQaHJyZ3RBRRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,4,2024-11-23,2024,11,positive
+Kalamma Gadela,FIVE,,2024-12-03T08:13:45.171140Z,2024-12-03T08:13:45.171140Z,ChZDSUhNMG9nS0VJQ0FnSURQMGQ3blV3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2024-12-03,2024,12,positive
+srikanth pasunoori,FIVE,,2024-12-23T09:33:51.714954Z,2024-12-23T09:33:51.714954Z,ChZDSUhNMG9nS0VJQ0FnSUR2X2R5LWNREAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2024-12-23,2024,12,positive
+anjaneyulu kandula,FIVE,,2024-12-27T12:53:54.114478Z,2024-12-27T12:53:54.114478Z,ChZDSUhNMG9nS0VJQ0FnSUNmNHZQa2R3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2024-12-27,2024,12,positive
+Jarpula Shankar,FIVE,,2025-01-11T03:54:22.829606Z,2025-01-11T03:54:22.829606Z,ChdDSUhNMG9nS0VJQ0FnSURmai1HU2l3RRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2025-01-11,2025,1,positive
+Ponnam Rishith,FOUR,,2025-01-14T15:19:28.513022Z,2025-01-14T15:19:28.513022Z,ChdDSUhNMG9nS0VJQ0FnSUNfMG96WDBnRRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,4,2025-01-14,2025,1,positive
+blsy 99,FIVE,,2025-01-22T14:28:49.117264Z,2025-01-22T14:28:49.117264Z,ChZDSUhNMG9nS0VJQ0FnSURfdk5iUUdREAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2025-01-22,2025,1,positive
+gunaganti naresh,FIVE,,2025-01-25T14:36:42.913108Z,2025-01-25T14:36:42.913108Z,ChdDSUhNMG9nS0VJQ0FnSURfLWR1ZGlRRRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2025-01-25,2025,1,positive
+Mahesh,FIVE,,2025-02-16T19:47:08.114777Z,2025-02-16T19:47:08.114777Z,ChdDSUhNMG9nS0VJQ0FnTUNnNXF5UDRnRRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2025-02-16,2025,2,positive
+sampath kumar,FOUR,,2025-02-23T04:45:51.542369Z,2025-02-23T04:45:51.542369Z,ChZDSUhNMG9nS0VJQ0FnTURnbkxLVlF3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,4,2025-02-23,2025,2,positive
+Vamshikrishna Bandaru,FIVE,,2025-03-08T12:51:32.886848Z,2025-03-08T12:51:32.886848Z,ChdDSUhNMG9nS0VJQ0FnTURRME82N3NBRRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2025-03-08,2025,3,positive
+SRI MALLANNA CARGO MOVERS,FIVE,,2025-03-30T14:42:20.693383Z,2025-03-30T14:42:20.693383Z,ChdDSUhNMG9nS0VJQ0FnTUNJbExuc19RRRAB,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,5,2025-03-30,2025,3,positive
+DEPAVATH PRAKASH,ONE,,2025-04-05T10:39:03.252033Z,2025-04-05T10:39:03.252033Z,ChZDSUhNMG9nS0VJQ0FnTUNJdDc3OVB3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,1,2025-04-05,2025,4,negative
+narendar mahankali,FOUR,,2025-04-13T18:30:37.143541Z,2025-04-13T18:30:37.143541Z,ChZDSUhNMG9nS0VJQ0FnTURJOTR5b1N3EAE,False,,,reviews-ABHRLXVMO3Z-eYwueHBquEiCofnWqSQxaHOJyX.json,4,2025-04-13,2025,4,positive
+vijay reddy,TWO,,2025-04-14T06:28:37.532606Z,2025-04-14T06:28:37.532606Z,ChdDSUhNMG9nS0VJQ0FnTUNvd0pIUW5BRRAB,False,,,reviews.json,2,2025-04-14,2025,4,negative
+Manohar Kanneboina,FOUR,,2025-04-19T14:33:36.882909Z,2025-04-19T14:33:36.882909Z,ChdDSUhNMG9nS0VJQ0FnTUNvbzUzeDZnRRAB,False,,,reviews.json,4,2025-04-19,2025,4,positive
+Prince Arjun,THREE,,2025-04-21T04:06:35.317249Z,2025-04-21T04:06:35.317249Z,ChZDSUhNMG9nS0VJQ0FnTUNvXzR5d0xBEAE,False,,,reviews.json,3,2025-04-21,2025,4,neutral
+B SURESH,FIVE,Good 👍,2025-04-27T11:58:29.264425Z,2025-04-27T11:58:29.264425Z,ChZDSUhNMG9nS0VJQ0FnTURvamFLOVBnEAE,False,,,reviews.json,5,2025-04-27,2025,4,positive
+Kumar Sayman,FIVE,,2025-04-29T12:02:12.049627Z,2025-04-29T12:02:12.049627Z,ChdDSUhNMG9nS0VJQ0FnTURvaDlhODZBRRAB,False,,,reviews.json,5,2025-04-29,2025,4,positive
+Alakanti Ramanareddy,THREE,,2025-05-11T16:59:34.555338Z,2025-05-11T16:59:34.555338Z,ChdDSUhNMG9nS0VNYXZnWnZXOUtuV3V3RRAB,False,,,reviews.json,3,2025-05-11,2025,5,neutral
+kalyani konduru,FIVE,,2025-05-23T13:01:44.682715Z,2025-05-23T13:01:44.682715Z,ChdDSUhNMG9nS0VQMzB0c1QtbFk3OGtnRRAB,False,,,reviews.json,5,2025-05-23,2025,5,positive
+Priyanka Boge,FIVE,,2025-05-25T19:12:19.063543Z,2025-05-25T19:12:19.063543Z,ChdDSUhNMG9nS0VQYlF3c0s5eXJtOTR3RRAB,False,,,reviews.json,5,2025-05-25,2025,5,positive
+POTHKANURI RANADHEER,FIVE,,2025-05-30T03:46:30.951790Z,2025-05-30T03:46:30.951790Z,ChdDSUhNMG9nS0VJYlcydFRvOEtianpRRRAB,False,,,reviews.json,5,2025-05-30,2025,5,positive
+giribabu sasupalli,FOUR,,2025-06-09T02:53:34.887011Z,2025-06-09T02:53:34.887011Z,ChZDSUhNMG9nS0VMUGNsNkxsal92WUpREAE,False,,,reviews.json,4,2025-06-09,2025,6,positive
+Kiran Ponnam,FOUR,,2025-06-11T14:50:28.700253Z,2025-06-11T14:50:28.700253Z,ChdDSUhNMG9nS0VMYlN0Tnp1clBxSXBnRRAB,False,,,reviews.json,4,2025-06-11,2025,6,positive
+yogesh bunny,TWO,,2025-06-14T18:54:00.906609Z,2025-06-14T18:54:00.906609Z,Ci9DQUlRQUNvZENodHljRjlvT2tSd1VrWktWM2xSWXpWVE1uZHJNR2x5V0U5U1kzYxAB,False,,,reviews.json,2,2025-06-14,2025,6,negative
+Jarpula Mangya,FIVE,,2025-06-17T06:48:37.717139Z,2025-06-17T06:48:37.717139Z,Ci9DQUlRQUNvZENodHljRjlvT2pkYWMya3hVR1U0VFhZNWIyWldiblJvUmtKNmNYYxAB,False,,,reviews.json,5,2025-06-17,2025,6,positive
+Sharath Chandra,FIVE,S V Banquet Halls Is Beautiful place Very nice wow Super first time iam seeing Very good,2025-06-29T05:42:15.947498Z,2025-06-29T05:42:15.947498Z,Ci9DQUlRQUNvZENodHljRjlvT2sxUFRtUnhXbWhXYW0xMVVYUkZkSFpQZFZOeFYzYxAB,False,,,reviews.json,5,2025-06-29,2025,6,positive
+Narsimha Reddy Dasaratha Reddy,THREE,Function n dining Halls are  too small. It is convenient below 150 members gathering. Lift and steps also conjusted. No sufficient car parking. Local Transportation available.,2025-07-06T12:20:48.166596Z,2025-07-06T12:20:48.166596Z,Ci9DQUlRQUNvZENodHljRjlvT2kxdFNHc3laVTlvZDJ0VVRtMUVUR3Q1TW1GeFgxRRAB,False,,,reviews.json,3,2025-07-06,2025,7,neutral
+vijay kumar,FIVE,,2025-07-26T15:05:44.886677Z,2025-07-26T15:05:44.886677Z,Ci9DQUlRQUNvZENodHljRjlvT25WYWEzWXpMVzFmYlhSb1VXUmFOVFZXY1ZCaWNYYxAB,False,,,reviews.json,5,2025-07-26,2025,7,positive
+Medchal Swamy,ONE,,2025-07-27T11:30:17.706451Z,2025-07-27T11:30:17.706451Z,Ci9DQUlRQUNvZENodHljRjlvT2twYVN6bENOVWN5YTE5M00xTm1ia1UxYm1oVlVHYxAB,False,,,reviews.json,1,2025-07-27,2025,7,negative
+Raghu RamaN,FOUR,,2025-08-06T04:57:47.356238Z,2025-08-06T04:57:47.356238Z,Ci9DQUlRQUNvZENodHljRjlvT21GS2VIVXdOVmhSUzFwV2RVNTVWSEZPYnpjelltYxAB,False,,,reviews.json,4,2025-08-06,2025,8,positive
